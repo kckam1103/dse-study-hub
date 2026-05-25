@@ -3,636 +3,663 @@
     "news": [
       {
         "id": "r4-1",
-        "issue": 4,
+        "issue": "Issue 4",
         "title": "Hong Kong Slides in Global English Rankings",
-        "caseStudy": {
-          "text": "In November 2025, the EF English Proficiency Index revealed Hong Kong <span class='hl-yellow'>plummeted</span> (v. 暴跌) to 39th globally with a score of 538, marking a <span class='hl-yellow'>fourth consecutive</span> (adj. 連續的) year of decline. The city now <span class='hl-yellow'>trails</span> (v. 落後於) Malaysia and the Philippines in Asia. Experts <span class='hl-yellow'>ascribe</span> (v. 歸因…於…) the alarming <span class='hl-yellow'>trajectory</span> (n. 軌跡) to <span class='hl-yellow'>pandemic-era disruptions</span> in interactive learning, with youth proficiency particularly <span class='hl-yellow'>sluggish</span> (adj. 遲緩的) despite post-pandemic recovery efforts.",
-          "vocabBooster": [
-            { "phrase": "plummet", "zh": "暴跌" },
-            { "phrase": "fourth consecutive", "zh": "連續第四" },
-            { "phrase": "trail", "zh": "落後於" },
-            { "phrase": "ascribe ... to ...", "zh": "歸因…於…" },
-            { "phrase": "trajectory", "zh": "軌跡" },
-            { "phrase": "pandemic-era disruptions", "zh": "疫情時期的干擾" },
-            { "phrase": "sluggish", "zh": "遲緩的" }
-          ]
-        },
-        "reflections": [
-          "Falling behind Malaysia and the Philippines <span class='hl-yellow'>undermines</span> (v. 削弱) Hong Kong's historical advantage as Asia's premier English-speaking city, prompting concerns about whether the SAR can <span class='hl-yellow'>maintain its status as a global financial center</span> when regional competitors offer superior <span class='hl-yellow'>bilingual talent pools</span> (phr. 雙語人才庫).",
-          "Hong Kong scored 550 in Reading (ranking significantly higher in this metric) versus a dismal 494 in Speaking. This <span class='hl-yellow'>lays bare</span> the local education system's <span class='hl-yellow'>overemphasis on exam-oriented reading and writing</span> <span class='hl-yellow'>at the expense of</span> (phr. 以…為代價) conversational fluency. [HANDWRITTEN: 暴露問題]",
-          "The sharp decline among 18–20-year-olds has highlighted the unintended consequences of prolonged (adj. 長期的) online learning, where muted video lessons and masked classrooms eliminated opportunities for spoken practice.",
-          "The decline calls for (exp. 呼籲) a <span class='hl-yellow'>pedagogical shift</span> (phr. 教學轉變) away from rote memorization (phr. 死記硬背) and exam drills toward interactive, speaking-focused instruction that prioritizes real-world communication skills over test scores.",
-          "<span class='hl-yellow'>Reasons for Hong Kong students' declining English proficiency:</span> diminishing (adj. 減少的) exposure to English outside classrooms due to the dominance of Cantonese and Mandarin in daily life / over-reliance on rote learning (n. 死記硬背) and exam-oriented drilling / reduced opportunities for immersive (adj. 沉浸式的) interactions with native speakers / the proliferation (n. 激增) of short-form social media content in Chinese, which shortens attention spans for long-form English reading / <span class='hl-yellow'>students' reluctance</span> (n. 不情願) <span class='hl-yellow'>to speak English for fear of</span> making mistakes and <span class='hl-yellow'>losing face</span> / the phasing out (phr. 逐步淘汰) of native English-speaking teachers (NETs) in some schools due to budget constraints (n. 預算限制) [HANDWRITTEN: P4 ☆]"
+        "newsText": "In November 2025, the EF English Proficiency Index revealed Hong Kong plummeted to 39th globally with a score of 538, marking a fourth consecutive year of decline. The city now trails Malaysia and the Philippines in Asia. Experts ascribe the alarming trajectory to pandemic-era disruptions in interactive learning, with youth proficiency particularly sluggish despite post-pandemic recovery efforts.",
+        "newsHighlights": [
+          { "word": "plummeted", "zh": "暴跌" },
+          { "word": "fourth consecutive", "zh": "連續第四" },
+          { "word": "trails", "zh": "落後於" },
+          { "word": "ascribe", "zh": "歸因…於…" },
+          { "word": "trajectory", "zh": "軌跡" },
+          { "word": "sluggish", "zh": "遲緩的" }
+        ],
+        "reflectionText": "Hong Kong scored 550 in Reading versus a dismal 494 in Speaking. This lays bare the local education system's overemphasis on exam-oriented reading and writing at the expense of conversational fluency. The sharp decline among 18–20-year-olds highlights the unintended consequences of prolonged online learning, where muted video lessons and masked classrooms eliminated opportunities for spoken practice. The decline calls for a pedagogical shift away from rote memorization and exam drills toward interactive, speaking-focused instruction. Reasons include: diminishing exposure to English outside classrooms / over-reliance on rote learning / reduced opportunities for immersive interactions with native speakers / proliferation of short-form social media content in Chinese / students' reluctance to speak English for fear of losing face / phasing out of NETs due to budget constraints.",
+        "reflectionHighlights": [
+          { "word": "lays bare", "zh": "揭露" },
+          { "word": "overemphasis", "zh": "過度強調" },
+          { "word": "at the expense of", "zh": "以…為代價" },
+          { "word": "pedagogical shift", "zh": "教學轉變" },
+          { "word": "rote memorization", "zh": "死記硬背" },
+          { "word": "reluctance", "zh": "不情願" },
+          { "word": "losing face", "zh": "面子" }
+        ],
+        "vocabBooster": [
+          { "en": "plummet (v.)", "zh": "暴跌" },
+          { "en": "fourth consecutive (adj.)", "zh": "連續第四" },
+          { "en": "trail (v.)", "zh": "落後於" },
+          { "en": "ascribe … to … (v.)", "zh": "歸因…於…" },
+          { "en": "trajectory (n.)", "zh": "軌跡" },
+          { "en": "pandemic-era disruptions", "zh": "疫情時期的干擾" },
+          { "en": "sluggish (adj.)", "zh": "遲緩的" },
+          { "en": "pedagogical shift (phr.)", "zh": "教學轉變" },
+          { "en": "rote memorization (phr.)", "zh": "死記硬背" },
+          { "en": "bilingual talent pools (phr.)", "zh": "雙語人才庫" }
         ]
       },
       {
         "id": "r4-2",
-        "issue": 4,
+        "issue": "Issue 4",
         "title": "HKUST's New Medical School",
-        "caseStudy": {
-          "text": "In November 2025, the government approved HKUST's proposal to establish the <span class='hl-yellow'>city's third medical school</span>. <span class='hl-yellow'>Leveraging</span> (v. 利用) its strengths in <span class='hl-yellow'>artificial intelligence</span> and biomedical technology, HKUST aims to <span class='hl-green' data-zh='培養'>nurture</span> (v. 培養) <span class='hl-yellow'>tech-savvy</span> (adj. 精通科技的) doctors through an <span class='hl-yellow'>interdisciplinary</span> (adj. 跨學科的) curriculum. The school has <span class='hl-yellow'>forged</span> (v. 開創) partnerships with around 40 <span class='hl-yellow'>renowned</span> (adj. 知名的) medical institutions globally.",
-          "vocabBooster": [
-            { "phrase": "leverage", "zh": "利用" },
-            { "phrase": "nurture", "zh": "培養" },
-            { "phrase": "tech-savvy", "zh": "精通科技的" },
-            { "phrase": "interdisciplinary", "zh": "跨學科的" },
-            { "phrase": "forge partnerships", "zh": "開創夥伴關係" },
-            { "phrase": "renowned", "zh": "知名的" }
-          ]
-        },
-        "reflections": [
-          "The establishment of Hong Kong's third medical school would address <span class='hl-yellow'>critical doctor shortages</span> driven by an aging population, <span class='hl-yellow'>alleviating</span> the <span class='hl-yellow'>strain</span> on the city's <span class='hl-yellow'>overstretched</span> healthcare system. [HANDWRITTEN: 爆<]",
-          "Expanding medical training capacity may alleviate (v. 緩解) Hong Kong's chronic <span class='hl-yellow'>understaffing</span> (phr. 長期人手不足) in public hospitals, potentially reducing <span class='hl-yellow'>medical blunders</span> (phr. 醫療失誤) and <span class='hl-yellow'>burnout</span> caused by overworked healthcare professionals.",
-          "HKUST's medical school pioneers a <span class='hl-yellow'>paradigm shift</span> (exp. 典範轉移) in medical education by integrating <span class='hl-yellow'>cutting-edge technologies</span> (phr. 尖端科技) into its curriculum. Graduates will be equipped with competencies essential for <span class='hl-yellow'>precision medicine</span> (phr. 精準醫學) and data-driven <span class='hl-yellow'>clinical decision-making</span> (phr. 數據主導的臨床決策), ultimately improving <span class='hl-yellow'>diagnostic accuracy</span> (phr. 診斷準確性) and <span class='hl-yellow'>patient outcomes</span> (phr. 治療成效).",
-          "The school's partnerships with about 40 famed institutions, including Peking Union Medical College Hospital and Imperial College London, demonstrate Hong Kong's strategic positioning as a Greater Bay Area <span class='hl-yellow'>medical hub</span> bridging Chinese and Western healthcare systems."
+        "newsText": "In November 2025, the government approved HKUST's proposal to establish the city's third medical school. Leveraging its strengths in artificial intelligence and biomedical technology, HKUST aims to nurture tech-savvy doctors through an interdisciplinary curriculum. The school has forged partnerships with around 40 renowned medical institutions globally.",
+        "newsHighlights": [
+          { "word": "city's third medical school", "zh": "城市第三所醫學院" },
+          { "word": "Leveraging", "zh": "利用" },
+          { "word": "nurture", "zh": "培養" },
+          { "word": "tech-savvy", "zh": "精通科技的" },
+          { "word": "interdisciplinary", "zh": "跨學科的" },
+          { "word": "forged", "zh": "開創" },
+          { "word": "renowned", "zh": "知名的" }
         ],
-        "otherExamples": {
-          "title": "AI 放落醫療 [HANDWRITTEN: AI 放落醫療]",
-          "points": [
-            "Breast cancer screening (UK): The NHS launched a massive trial in February 2025 involving 700,000 women to test AI-assisted mammography (phr. 人工智能輔助乳房造影), evaluating its ability to detect subtle (adj. 細微的) tissue changes earlier than human radiologists.",
-            "New 2025 trials utilize AI-enhanced predictive modeling to detect acute ischemic stroke (phr. 急性缺血性中風), significantly outpacing conventional clinical assessment.",
-            "The "Sybil" deep-learning model was validated in late 2025 trials for predicting 6-year lung cancer risk from a single low-dose CT scan, showing high accuracy even in non-smokers."
-          ]
-        }
+        "reflectionText": "The establishment of Hong Kong's third medical school would address critical doctor shortages driven by an aging population, alleviating the strain on the city's overstretched healthcare system. Expanding medical training capacity may reduce chronic understaffing in public hospitals, potentially reducing medical blunders and burnout. HKUST's school pioneers a paradigm shift in medical education by integrating cutting-edge technologies, equipping graduates with competencies for precision medicine and data-driven clinical decision-making. The school's partnerships demonstrate Hong Kong's positioning as a Greater Bay Area medical hub bridging Chinese and Western healthcare. AI case studies: NHS breast cancer mammography trial (700,000 women, Feb 2025) / AI stroke detection / 'Sybil' deep-learning model for lung cancer risk.",
+        "reflectionHighlights": [
+          { "word": "critical doctor shortages", "zh": "嚴重醫生短缺" },
+          { "word": "overstretched", "zh": "超負荷的" },
+          { "word": "understaffing", "zh": "長期人手不足" },
+          { "word": "medical blunders", "zh": "醫療失誤" },
+          { "word": "paradigm shift", "zh": "典範轉移" },
+          { "word": "cutting-edge technologies", "zh": "尖端科技" },
+          { "word": "precision medicine", "zh": "精準醫學" },
+          { "word": "medical hub", "zh": "醫療樞紐" }
+        ],
+        "vocabBooster": [
+          { "en": "leverage (v.)", "zh": "利用" },
+          { "en": "nurture (v.)", "zh": "培養" },
+          { "en": "tech-savvy (adj.)", "zh": "精通科技的" },
+          { "en": "interdisciplinary (adj.)", "zh": "跨學科的" },
+          { "en": "forge partnerships", "zh": "開創夥伴關係" },
+          { "en": "paradigm shift (exp.)", "zh": "典範轉移" },
+          { "en": "precision medicine (phr.)", "zh": "精準醫學" },
+          { "en": "clinical decision-making (phr.)", "zh": "臨床決策" },
+          { "en": "diagnostic accuracy (phr.)", "zh": "診斷準確性" },
+          { "en": "patient outcomes (phr.)", "zh": "治療成效" }
+        ]
       },
       {
         "id": "r4-3",
-        "issue": 4,
+        "issue": "Issue 4",
         "title": "Hong Kong's Worst Fire in Decades",
-        "caseStudy": {
-          "text": "On November 26, 2025, a catastrophic (adj. 災難性的) <span class='hl-yellow'>blaze</span> (n. 大火) <span class='hl-yellow'>erupted</span> at Wang Fuk Court, a Tai Po housing estate undergoing renovations (n. 翻新工程), <span class='hl-yellow'>claiming</span> at least 160 lives. Flames rapidly <span class='hl-yellow'>engulfed</span> (v. 吞噬) seven residential towers covered in bamboo scaffolding (phr. 竹棚架) and <span class='hl-yellow'>mesh netting</span> (phr. 圍網), with authorities attributing (v. 歸因…於…) the swift spread to <span class='hl-yellow'>substandard</span> (adj. 不合格的) flammable (adj. 易燃的) materials, including <span class='hl-yellow'>styrofoam boards</span> (phr. 發泡膠板). [HANDWRITTEN: ~ inferno, →摩老]",
-          "vocabBooster": [
-            { "phrase": "blaze", "zh": "大火" },
-            { "phrase": "erupt", "zh": "爆發" },
-            { "phrase": "engulf", "zh": "吞噬" },
-            { "phrase": "mesh netting", "zh": "圍網" },
-            { "phrase": "substandard", "zh": "不合格的" },
-            { "phrase": "styrofoam boards", "zh": "發泡膠板" },
-            { "phrase": "scaffolding", "zh": "棚架" }
-          ]
-        },
-        "reflections": [
-          "The tragedy has exposed (v. 揭露) critical failures in building safety oversight (n. 監管). It has also highlighted the dangers of cost-cutting (n. 削減成本) in construction, as investigators probe suspected corruption (n. 貪污) in the tendering (n. 招標) process that may have prioritised profit over safety compliance (n. 安全合規).",
-          "The tragedy lays bare (exp. 揭露) a bitter irony: in one of Asia's wealthiest and most developed cities, highly combustible materials (phr. 易燃材料) and non-functional fire alarms caused the deadliest residential high-rise fire in a modern developed city in the 21st century, exposing how prosperity could mask deep-rooted regulatory failures (phr. 監管失效).",
-          "The <span class='hl-yellow'>outpouring</span> (n. 湧現) of support – from McDonald's providing free meals to hotels offering rooms and HK$3.7 billion in public donations – <span class='hl-yellow'>reinforces</span> (v. 加強) Hong Kong's reputation as a city of <span class='hl-yellow'>compassion</span>, proving the city remains united in crisis despite social divisions (phr. 社會分歧). [HANDWRITTEN: 同情心, P2☆]",
-          "Volunteers' efforts to <span class='hl-yellow'>rescue residents' pets</span>, including cats, dogs and tortoises, reflect evolving attitudes toward animal welfare (n. 動物福利), where pets are increasingly regarded as family members."
+        "newsText": "On November 26, 2025, a catastrophic blaze erupted at Wang Fuk Court, a Tai Po housing estate undergoing renovations, claiming at least 160 lives. Flames rapidly engulfed seven residential towers covered in bamboo scaffolding and mesh netting, with authorities attributing the swift spread to substandard flammable materials, including styrofoam boards.",
+        "newsHighlights": [
+          { "word": "blaze", "zh": "大火" },
+          { "word": "erupted", "zh": "爆發" },
+          { "word": "claiming", "zh": "奪走(生命)" },
+          { "word": "engulfed", "zh": "吞噬" },
+          { "word": "mesh netting", "zh": "圍網" },
+          { "word": "substandard", "zh": "不合格的" },
+          { "word": "styrofoam boards", "zh": "發泡膠板" }
         ],
-        "otherExamples": [
-          "1996 Garley Building fire in Hong Kong (phr. 嘉利大廈大火) / 2017 Grenfell Tower fire (phr. 格蘭菲塔大樓火災) in London / 2003 Daegu subway fire (phr. 大邱地鐵縱火) in South Korea"
+        "reflectionText": "The tragedy has exposed critical failures in building safety oversight. It highlighted dangers of cost-cutting in construction, as investigators probe suspected corruption in the tendering process. The tragedy lays bare a bitter irony: in one of Asia's wealthiest cities, highly combustible materials and non-functional fire alarms caused the deadliest residential high-rise fire in the 21st century, exposing how prosperity could mask deep-rooted regulatory failures. The outpouring of support — from McDonald's providing free meals to HK$3.7 billion in public donations — reinforces Hong Kong's reputation as a city of compassion. Volunteers' efforts to rescue residents' pets reflect evolving attitudes toward animal welfare.",
+        "reflectionHighlights": [
+          { "word": "outpouring", "zh": "湧現" },
+          { "word": "reinforces", "zh": "加強" },
+          { "word": "compassion", "zh": "同情心" },
+          { "word": "rescue residents' pets", "zh": "拯救居民寵物" },
+          { "word": "regulatory failures", "zh": "監管失效" }
+        ],
+        "vocabBooster": [
+          { "en": "blaze (n.)", "zh": "大火" },
+          { "en": "engulf (v.)", "zh": "吞噬" },
+          { "en": "mesh netting (phr.)", "zh": "圍網" },
+          { "en": "substandard (adj.)", "zh": "不合格的" },
+          { "en": "styrofoam boards (phr.)", "zh": "發泡膠板" },
+          { "en": "outpouring (n.)", "zh": "湧現" },
+          { "en": "combustible materials (phr.)", "zh": "易燃材料" },
+          { "en": "regulatory failures (phr.)", "zh": "監管失效" },
+          { "en": "safety compliance (n.)", "zh": "安全合規" },
+          { "en": "tendering process (n.)", "zh": "招標過程" }
         ]
       },
       {
         "id": "r4-4",
-        "issue": 4,
+        "issue": "Issue 4",
         "title": "Travel KOL Acquires Record-Breaking Luxury Unit",
-        "caseStudy": {
-          "text": "In November 2025, 90s-born travel KOL "FlyForMiles" (n. 張鎵安 Cheung Lim-on), renowned (adj. 著名的) for <span class='hl-yellow'>teaching credit card rewards strategies</span> (phr. 策略), splurged (v. 揮霍) HK$136.8 million on a North Point Harbour Grand II penthouse unit. The 2,118-sq-ft "phoenix floor" unit with rooftop terrace (n. 平台) fetched (v. 售得) HK$64,589 per square foot, <span class='hl-yellow'>shattering</span> (v. 打破) Harbour Grand II's price records. [HANDWRITTEN: ←]",
-          "vocabBooster": [
-            { "phrase": "splurge", "zh": "揮霍" },
-            { "phrase": "shattering records", "zh": "打破紀錄" },
-            { "phrase": "renowned", "zh": "著名的" },
-            { "phrase": "penthouse", "zh": "頂層豪華單位" },
-            { "phrase": "rooftop terrace", "zh": "天台花園" }
-          ]
-        },
-        "reflections": [
-          "This record-breaking transaction has <span class='hl-yellow'>drawn attention to</span> how <span class='hl-yellow'>influencer marketing</span> has evolved into a <span class='hl-yellow'>formidable revenue stream</span>, with industry leaders reportedly earning upwards of HK$50 million annually through <span class='hl-green' data-zh='多樣化的'>diversified</span> partnerships. [HANDWRITTEN: 強大/做著者的challenge]",
-          "The success story has highlighted how niche expertise (phr. 市場一隅專業知識) can be <span class='hl-yellow'>parlayed</span> (v. 使…產生效益) into substantial wealth in the digital economy.",
-          "The case has prompted us to reflect on the <span class='hl-yellow'>widening wealth gap</span> within the creator economy itself, where <span class='hl-yellow'>a handful of</span> (phr. 少量的) industry leaders command (v. 贏得) eight-figure incomes while countless smaller influencers <span class='hl-yellow'>struggle to sustain basic livelihoods</span>.",
-          "This conspicuous consumption (phr. 炫耀性消費) might <span class='hl-yellow'>inadvertently</span> (adv. 無意地) inspire younger generations to <span class='hl-yellow'>pursue</span> influencer careers for financial gain rather than <span class='hl-yellow'>genuine passion</span>, potentially saturating (v. 使…飽和) the market with mercenary (adj. 唯利是圖的) creators."
+        "newsText": "In November 2025, 90s-born travel KOL 'FlyForMiles' (張鎵安 Cheung Lim-on), renowned for teaching credit card rewards strategies, splurged HK$136.8 million on a North Point Harbour Grand II penthouse unit. The 2,118-sq-ft 'phoenix floor' unit with rooftop terrace fetched HK$64,589 per square foot, shattering Harbour Grand II's price records.",
+        "newsHighlights": [
+          { "word": "renowned", "zh": "著名的" },
+          { "word": "splurged", "zh": "揮霍" },
+          { "word": "shattering", "zh": "打破" }
         ],
-        "otherExamples": [
-          "Other famous KOLs / YouTube channels in Hong Kong: Pomato (Comedy sketch 搞笑短片 video production team) / 100Most (Hong Kong pop culture commentary and political satire) / Emi Wong (workout routines and wellness content) / Coffee Lam (fitness and motherhood vlogs) / Martin (creates Cantonese-language cooking tutorials featuring authentic dishes 地道菜式, snacks, and desserts) / Kiki and May (food and travel YouTubers) / Fly For Miles (credit card miles and finance blogger)"
+        "reflectionText": "This record-breaking transaction has drawn attention to how influencer marketing has evolved into a formidable revenue stream, with industry leaders earning upwards of HK$50 million annually through diversified partnerships. Niche expertise can be parlayed into substantial wealth in the digital economy. The case prompts reflection on the widening wealth gap within the creator economy, where a handful of industry leaders command eight-figure incomes while smaller influencers struggle to sustain basic livelihoods. Conspicuous consumption might inadvertently inspire younger generations to pursue influencer careers for financial gain rather than genuine passion, saturating the market with mercenary creators.",
+        "reflectionHighlights": [
+          { "word": "formidable revenue stream", "zh": "龐大收入來源" },
+          { "word": "parlayed", "zh": "使…產生效益" },
+          { "word": "widening wealth gap", "zh": "擴大的貧富差距" },
+          { "word": "a handful of", "zh": "少量的" },
+          { "word": "struggle to sustain basic livelihoods", "zh": "難以維持基本生活" },
+          { "word": "inadvertently", "zh": "無意地" },
+          { "word": "genuine passion", "zh": "真正的熱情" }
+        ],
+        "vocabBooster": [
+          { "en": "splurge (v.)", "zh": "揮霍" },
+          { "en": "shattering records", "zh": "打破紀錄" },
+          { "en": "influencer marketing", "zh": "網紅營銷" },
+          { "en": "formidable revenue stream", "zh": "龐大收入來源" },
+          { "en": "parlay (v.)", "zh": "使…產生效益" },
+          { "en": "widening wealth gap", "zh": "擴大的貧富差距" },
+          { "en": "a handful of (phr.)", "zh": "少量的" },
+          { "en": "inadvertently (adv.)", "zh": "無意地" },
+          { "en": "conspicuous consumption (phr.)", "zh": "炫耀性消費" },
+          { "en": "mercenary (adj.)", "zh": "唯利是圖的" }
         ]
       }
     ],
     "phrases": [
       {
         "id": "p4-1",
-        "issue": 4,
         "phrase": "Among all the + N., the most noteworthy one is that ...",
         "zh": "在眾多…中，最值得注意的是…",
-        "grammarTag": "+ N. + that-clause",
-        "exampleSentence": "Among all the arguments against the removal of PE lessons, the most noteworthy one is that it will put students' health at great risk.",
-        "handwrittenNotes": "TS (Topic Sentence marker) | for = 辯駁對手 | Noteworthy = compelling = powerful (跟most) = tenable = soundest (× 跟most()) e.g. the soundest",
+        "grammar": "+ N. + that-clause",
+        "connotation": "neutral",
+        "example": {
+          "sentence": "Among all the arguments against the removal of PE lessons, the most noteworthy one is that it will put students' health at great risk.",
+          "highlights": []
+        },
         "synonyms": [
-          { "word": "compelling", "tag": "adj", "connotation": "neutral" },
-          { "word": "powerful", "tag": "adj", "connotation": "neutral", "note": "跟most" },
-          { "word": "tenable", "tag": "adj", "connotation": "neutral" },
-          { "word": "soundest", "tag": "adj", "connotation": "neutral", "note": "× 跟most, e.g. the soundest" }
+          { "word": "compelling", "grammar": "adj", "note": "" },
+          { "word": "powerful", "grammar": "adj", "note": "跟most" },
+          { "word": "tenable", "grammar": "adj", "note": "" },
+          { "word": "soundest", "grammar": "adj", "note": "× 跟most, e.g. the soundest" }
         ],
-        "baatDaapBox": ""
+        "notes": [
+          { "text": "TS (Topic Sentence) — for = 辯駁對手", "ink": "blue" },
+          { "text": "put … at great risk", "ink": "blue" }
+        ]
       },
       {
         "id": "p4-2",
-        "issue": 4,
         "phrase": "be fixated on ...",
         "zh": "沉迷於 / 令人擔憂的",
-        "grammarTag": "+ N. (adj)",
-        "exampleSentence": "It is distressing that many teenagers are fixated on video games.",
-        "handwrittenNotes": "沉迷於 → 令人擔憂的 | distressing (green highlight)",
+        "grammar": "+ N.",
+        "connotation": "negative",
+        "example": {
+          "sentence": "It is distressing that many teenagers are fixated on video games.",
+          "highlights": [{ "word": "distressing", "zh": "令人擔憂的" }]
+        },
         "synonyms": [
-          { "word": "be addicted to", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "be obsessed with", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "be hooked on", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "be preoccupied with", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "be steeped in", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "be submerged in", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "indulge in", "tag": "(verb)", "connotation": "neutral" }
+          { "word": "be addicted to", "grammar": "+ N.", "note": "" },
+          { "word": "be obsessed with", "grammar": "+ N.", "note": "" },
+          { "word": "be hooked on", "grammar": "+ N.", "note": "" },
+          { "word": "be preoccupied with", "grammar": "+ N.", "note": "" },
+          { "word": "be steeped in", "grammar": "+ N.", "note": "" },
+          { "word": "be submerged in", "grammar": "+ N.", "note": "" },
+          { "word": "indulge in", "grammar": "verb", "note": "" }
         ],
-        "superReinforcement": [
-          "Undoubtedly, the phenomenon that students in the city are fixated on exam grades is worrying.",
-          "The city is hooked on the new drama series on the bromance (n. 兄弟情) between the two young men.",
-          "Teenagers nowadays are so obsessed with online computer games that the vast majority of them have short-sightedness (n. 近視).",
-          "On no account should adolescents get steeped in the blind pursuit of brand-name products.",
-          "It is not uncommon that parents nowadays are spending ever more money on their children's education, preoccupied with the idea that their children, if taught by the best teachers, will be successful.",
-          "The teenager is gripped by her addiction to anime that she cannot stop watching it even for a day."
-        ],
-        "baatDaapBox": ""
+        "notes": [
+          { "text": "沉迷於 → 令人擔憂的", "ink": "blue" },
+          { "text": "Super Reinforcement: are fixated on / hooked on / obsessed with / steeped in / preoccupied with / gripped by", "ink": "green" }
+        ]
       },
       {
         "id": "p4-3",
-        "issue": 4,
         "phrase": "attach inordinate importance to ...",
         "zh": "過份重視 / 絕對不低估",
-        "grammarTag": "+ N.",
-        "exampleSentence": "Parents should by no means attach inordinate importance for their children's academic accomplishments.",
-        "handwrittenNotes": "過份重視 | 絕對不低估 | accomplishments = 態度 (handwritten) | attach ≈ excessive / undue / too much / disproportionate importance to | put/place … emphasis on | give … weight to",
+        "grammar": "+ N.",
+        "connotation": "negative",
+        "example": {
+          "sentence": "Parents should by no means attach inordinate importance to their children's academic accomplishments.",
+          "highlights": []
+        },
         "synonyms": [
-          { "word": "attach excessive importance to", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "attach undue importance to", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "attach too much importance to", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "attach disproportionate importance to", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "put/place … emphasis on", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "give … weight to", "tag": "+ N.", "connotation": "neutral" }
+          { "word": "attach excessive importance to", "grammar": "+ N.", "note": "" },
+          { "word": "attach undue importance to", "grammar": "+ N.", "note": "" },
+          { "word": "attach disproportionate importance to", "grammar": "+ N.", "note": "" },
+          { "word": "put/place … emphasis on", "grammar": "+ N.", "note": "" },
+          { "word": "give … weight to", "grammar": "+ N.", "note": "" }
         ],
-        "superReinforcement": [
-          "Helicopter parents usually attach inordinate importance to their children's academic success.",
-          "Society as a whole puts too much emphasis on economic growth.",
-          "It is every girl's dream to be pretty, but nowadays too much emphasis is placed on appearances.",
-          "Some people give undue weight to their online persona (n. 表像人格), allowing their social media presence to dictate (v. 支配) their self-image and self-esteem."
-        ],
-        "baatDaapBox": ""
+        "notes": [
+          { "text": "過份重視 | 絕對不低估", "ink": "blue" },
+          { "text": "accomplishments = 態度", "ink": "blue" }
+        ]
       },
       {
         "id": "p4-4",
-        "issue": 4,
         "phrase": "exert massive pressure on ...",
         "zh": "施壓",
-        "grammarTag": "+ N.",
-        "exampleSentence": "The grade-fixated education system has exerted tremendous pressure on students.",
-        "handwrittenNotes": "施壓 | exert : put | tremendous : enormous / intolerable / unrelenting / too much / undue (太多) | pressure : stress | exert tremendous pressure = put a great strain on",
+        "grammar": "+ N.",
+        "connotation": "negative",
+        "example": {
+          "sentence": "The grade-fixated education system has exerted tremendous pressure on students.",
+          "highlights": [{ "word": "grade-fixated", "zh": "成績固執的" }]
+        },
         "synonyms": [
-          { "word": "exert enormous pressure on", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "exert intolerable pressure on", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "exert unrelenting pressure on", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "put a great strain on", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "place … under constant pressure", "tag": "+ N.", "connotation": "neutral" }
+          { "word": "exert enormous/intolerable/unrelenting pressure on", "grammar": "+ N.", "note": "" },
+          { "word": "put a great strain on", "grammar": "+ N.", "note": "" },
+          { "word": "place … under constant pressure", "grammar": "+ N.", "note": "" }
         ],
-        "superReinforcement": [
-          "Adding an extra test week would definitely exert intolerable pressure on the already stressed students.",
-          "Tens of thousands of parents signed a Facebook petition (n. 請願書) demanding the scrapping (n. 廢棄) of the Primary Three exams, saying they put too much pressure on children.",
-          "That parents desperately want their children to succeed is understandable, but what is really beneficial to their development is not to exert too much pressure on them.",
-          "In order to raise productivity, companies must do more than just place their employees under constant pressure.",
-          "If we want to prevent teenage suicide, we should teach teenagers how to cope with tremendous pressure."
-        ],
-        "baatDaapBox": ""
+        "notes": [
+          { "text": "施壓 | exert = put | tremendous = enormous / intolerable / unrelenting / undue (太多)", "ink": "blue" },
+          { "text": "exert tremendous pressure = put a great strain on", "ink": "green" }
+        ]
       },
       {
         "id": "p4-5",
-        "issue": 4,
         "phrase": "speak volumes about ...",
-        "zh": "清楚說明（要e.g.）",
-        "grammarTag": "+ N.",
-        "exampleSentence": "The ever-rising youth suicide rate in the city speaks volumes about problems with our education system.",
-        "handwrittenNotes": "清楚說明（當e.g.）| problems with : defects in / faults in / imperfections in / shortcoming in | speak volumes about : points to / lay bare / bring to light / indicate",
+        "zh": "清楚說明（當e.g.）",
+        "grammar": "+ N.",
+        "connotation": "neutral",
+        "example": {
+          "sentence": "The ever-rising youth suicide rate in the city speaks volumes about problems with our education system.",
+          "highlights": []
+        },
         "synonyms": [
-          { "word": "points to", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "lay bare", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "bring to light", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "indicate", "tag": "+ N.", "connotation": "neutral" }
+          { "word": "point to", "grammar": "+ N.", "note": "" },
+          { "word": "lay bare", "grammar": "+ N.", "note": "" },
+          { "word": "bring to light", "grammar": "+ N.", "note": "" },
+          { "word": "indicate", "grammar": "+ N.", "note": "" }
         ],
-        "superReinforcement": [
-          "The mayor's ratings (n. 評分) speak volumes about his popularity – they have remained low ever since the first day he took office (exp. 上任).",
-          "The initiative speaks volumes about the government's resolve (n. 決心) in turning the city into a centre of innovation.",
-          "The latest audit report (n. 審計報告) has brought to light the high operating expenses of the human resources department (phr. 人事部).",
-          "The new biography of the billionaire has made clear that she was a dedicated philanthropist (n. 慈善家) throughout her life.",
-          "The vice-principal's sudden resignation has exposed to view how divided the school's top management (phr. 高級管理層) are.",
-          "The documentary lays bare the problem of self-censorship (n. 自我審查) in the country.",
-          "The new study indicates a strong relationship between bullying and low self-esteem."
-        ],
-        "baatDaapBox": ""
+        "notes": [
+          { "text": "清楚說明（當e.g.）| problems with = defects in / faults in / imperfections in / shortcoming in", "ink": "blue" }
+        ]
       },
       {
         "id": "p4-6",
-        "issue": 4,
         "phrase": "N1 and N2 alike",
         "zh": "兩者都（不只A還是B）",
-        "grammarTag": "adv / adj",
-        "exampleSentence": "The exhibition captivates locals and tourists alike.",
-        "handwrittenNotes": "兩者都（不只A還是B）| 吸引 | alike adv | 2) Pet owners and their pets often look alike (adj) | pet owners often look like their pets | = resemble",
+        "grammar": "adv / adj",
+        "connotation": "neutral",
+        "example": {
+          "sentence": "The exhibition captivates locals and tourists alike.",
+          "highlights": [{ "word": "captivates", "zh": "吸引" }]
+        },
         "synonyms": [
-          { "word": "look alike", "tag": "adj", "connotation": "neutral", "note": "= look like each other" },
-          { "word": "resemble", "tag": "v", "connotation": "neutral" }
+          { "word": "look alike", "grammar": "adj", "note": "= look like each other" },
+          { "word": "resemble", "grammar": "v", "note": "" }
         ],
-        "superReinforcement": [
-          "The national museum is a popular destination for locals and tourists alike, offering a variety of educational programmes.",
-          "The independent bookstore captivates (v. 使…著迷) bookworms and literary critics (n. 評論家) alike as it offers a broad selection of titles to satisfy varied reading interests.",
-          "The twin brothers Jack and Josh look alike and have similar mannerisms (n. 習性), causing confusion even among their closest friends and family members.",
-          "The replica (n. 複製品) building looks like the original architectural landmark.",
-          "For the company, the threat of low-priced look-alike (adj. 相似的) products is not just pestilent (adj. 有害的/討厭的) but potentially lethal (adj. 致命的)."
-        ],
-        "baatDaapBox": ""
+        "notes": [
+          { "text": "兩者都（不只A還是B）| 吸引", "ink": "blue" },
+          { "text": "Pet owners and their pets often look alike (adj) = resemble", "ink": "blue" }
+        ]
       },
       {
         "id": "p4-7",
-        "issue": 4,
         "phrase": "digital detox",
         "zh": "電子排毒",
-        "grammarTag": "+ N. / phr.",
-        "exampleSentence": "Going on a digital detox is a great way to rejuvenate our mind and body.",
-        "handwrittenNotes": "電子排毒 | 換黎-新 | Going on a digital detox : detoxing from the digital world / abstaining from social media / taking some digital down time / unplugging from digital life / get off 'the grid' / 開始 going tech free / embarking on a social media cleanse",
+        "grammar": "phr.",
+        "connotation": "positive",
+        "example": {
+          "sentence": "Going on a digital detox is a great way to rejuvenate our mind and body.",
+          "highlights": [{ "word": "rejuvenate", "zh": "煥新" }]
+        },
         "synonyms": [
-          { "word": "detox from the digital world", "tag": "phr.", "connotation": "neutral" },
-          { "word": "abstain from social media", "tag": "phr.", "connotation": "neutral" },
-          { "word": "take digital down time", "tag": "phr.", "connotation": "neutral" },
-          { "word": "unplug from digital life", "tag": "phr.", "connotation": "neutral" },
-          { "word": "get off the grid", "tag": "phr.", "connotation": "neutral" },
-          { "word": "go tech free", "tag": "phr.", "connotation": "neutral" },
-          { "word": "embark on a social media cleanse", "tag": "phr.", "connotation": "neutral" }
+          { "word": "detox from the digital world", "grammar": "phr.", "note": "" },
+          { "word": "abstain from social media", "grammar": "phr.", "note": "" },
+          { "word": "unplug from digital life", "grammar": "phr.", "note": "" },
+          { "word": "get off the grid", "grammar": "phr.", "note": "" },
+          { "word": "go tech free", "grammar": "phr.", "note": "" },
+          { "word": "embark on a social media cleanse", "grammar": "phr.", "note": "開始" }
         ],
-        "superReinforcement": [
-          "Taking a vacation in the countryside offers urban dwellers (phr. 都市人) a chance to detox from the digital world.",
-          "Having realized the harmful effects of excessive screen time, the teenager decided to going on a digital detox.",
-          "To reduce distractions and regain a sense of productivity, many students decided to abstain from (v. 戒絕) social media during their exam preparation period.",
-          "After a long day of work, most workers found solace (n. 慰藉) in their digital downtime, where they would disconnect from their devices.",
-          "Feeling overwhelmed (adj. 不堪重負), the CEO decided to go device-free for a weekend retreat (n. 靜修), leaving her phone and tablet at home.",
-          "As more people recognize the negative impact of social media on their self-esteem and well-being, they are making a conscious (adj. 故意的) choice to embark on a social media cleanse."
-        ],
-        "baatDaapBox": ""
+        "notes": [
+          { "text": "電子排毒 | 換黎-新", "ink": "blue" }
+        ]
       },
       {
         "id": "p4-8",
-        "issue": 4,
         "phrase": "take a break from ...",
         "zh": "遠離煩惱",
-        "grammarTag": "+ N.",
-        "exampleSentence": "Travelling allows us to take a break from the hustle and bustle of city life.",
-        "handwrittenNotes": "遠離煩惱 | 大難 | take a break from : escape / step away from / break free from / cut ourselves off from / distance ourselves from / detach from / have a respite from → 頭氣 / have a breather from",
+        "grammar": "+ N.",
+        "connotation": "positive",
+        "example": {
+          "sentence": "Travelling allows us to take a break from the hustle and bustle of city life.",
+          "highlights": [{ "word": "hustle and bustle", "zh": "繁囂" }]
+        },
         "synonyms": [
-          { "word": "escape", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "step away from", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "break free from", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "cut ourselves off from", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "distance ourselves from", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "detach from", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "have a respite from", "tag": "+ N.", "connotation": "neutral", "note": "→ 頭氣" },
-          { "word": "have a breather from", "tag": "+ N.", "connotation": "neutral" }
+          { "word": "escape from", "grammar": "+ N.", "note": "" },
+          { "word": "step away from", "grammar": "+ N.", "note": "" },
+          { "word": "break free from", "grammar": "+ N.", "note": "" },
+          { "word": "cut ourselves off from", "grammar": "+ N.", "note": "" },
+          { "word": "distance ourselves from", "grammar": "+ N.", "note": "" },
+          { "word": "have a respite from", "grammar": "+ N.", "note": "→ 頭氣" },
+          { "word": "have a breather from", "grammar": "+ N.", "note": "" }
         ],
-        "superReinforcement": [
-          "The trip would be a wonderful opportunity for students to take a break from their hectic (adj. 忙亂的) schedules and interact with their peers and teachers outside the classroom.",
-          "To fully concentrate on writing her novel, the popular author has decided to cut herself off from social events and gathering for several months.",
-          "Working parents need to take a breather from their responsibilities once a while (phr. 偶爾), taking part in leisure activities to unwind (v. 放鬆).",
-          "In recent years, more and more families like to go glamping (n. 豪華露營) over weekends to escape from the hustle and bustle of city life.",
-          "Under peer pressure, impressionable (adj. 易受影響的) teenagers often find it difficult to distance themselves from toxic friendships."
-        ],
-        "baatDaapBox": ""
+        "notes": [
+          { "text": "遠離煩惱 | 大難", "ink": "blue" }
+        ]
       },
       {
         "id": "p4-9",
-        "issue": 4,
         "phrase": "a close correspondence between ... and ...",
-        "zh": "因果 / 密切關係",
-        "grammarTag": "phr.",
-        "exampleSentence": "There is a close correspondence between early childhood trauma and mental health issues in adulthood.",
-        "handwrittenNotes": "因果 / 密切關係 | ~密切有情 | a close / strong / inseparable / inextricable correspondence / relationship / link / connection / tie / *correlation between … and …",
+        "zh": "因果/密切關係",
+        "grammar": "phr.",
+        "connotation": "neutral",
+        "example": {
+          "sentence": "There is a close correspondence between early childhood trauma and mental health issues in adulthood.",
+          "highlights": []
+        },
         "synonyms": [
-          { "word": "a strong correspondence between", "tag": "phr.", "connotation": "neutral" },
-          { "word": "an inseparable link between", "tag": "phr.", "connotation": "neutral" },
-          { "word": "an inextricable connection between", "tag": "phr.", "connotation": "neutral" },
-          { "word": "a close correlation between", "tag": "phr.", "connotation": "neutral", "note": "*correlation" }
+          { "word": "a strong/inseparable/inextricable correspondence", "grammar": "phr.", "note": "" },
+          { "word": "a close relationship/link/connection/tie", "grammar": "phr.", "note": "" },
+          { "word": "a close correlation", "grammar": "phr.", "note": "*correlation" }
         ],
-        "superReinforcement": [
-          "There is a close correspondence between the prosperity of fast food chains and the rise in the number of overweight children.",
-          "There is an inseparable link between prostitution (n. 賣淫) and human trafficking (phr. 販賣人口).",
-          "It is known that depression is closely associated with other mental illnesses such as anxiety disorder (phr. 焦慮症), social phobia (phr. 社交恐懼症) and so on.",
-          "The rise in the number of overweight children is inextricably correlated with the prosperity of fast food chains."
-        ],
-        "baatDaapBox": ""
+        "notes": [
+          { "text": "因果/密切關係 | ~密切有情", "ink": "blue" },
+          { "text": "a close / strong / inseparable / inextricable + correspondence/relationship/link/connection/tie/*correlation", "ink": "green" }
+        ]
       },
       {
         "id": "p4-10",
-        "issue": 4,
         "phrase": "high-stakes",
         "zh": "風險高的",
-        "grammarTag": "adj",
-        "exampleSentence": "Hong Kong's high-stakes public examinations stifle innovation.",
-        "handwrittenNotes": "風險高的 / 把稅 | high-stakes = high risk / make-or-break / all-important / one shot",
+        "grammar": "adj",
+        "connotation": "negative",
+        "example": {
+          "sentence": "Hong Kong's high-stakes public examinations stifle innovation.",
+          "highlights": []
+        },
         "synonyms": [
-          { "word": "high-risk", "tag": "adj", "connotation": "neutral" },
-          { "word": "make-or-break", "tag": "adj", "connotation": "neutral" },
-          { "word": "all-important", "tag": "adj", "connotation": "neutral" },
-          { "word": "one shot", "tag": "phr.", "connotation": "neutral" }
+          { "word": "high-risk", "grammar": "adj", "note": "" },
+          { "word": "make-or-break", "grammar": "adj", "note": "" },
+          { "word": "all-important", "grammar": "adj", "note": "" },
+          { "word": "one shot", "grammar": "phr.", "note": "" }
         ],
-        "superReinforcement": [
-          "The CEO has decided to launch a new tech product, which was deemed as a high-stakes move for the company.",
-          "Some amateur (adj. 業餘的) hikers are not aware of the high-stakes nature of their trails (n. 路徑); even worse, they often attempt to navigate (v. 穿過) treacherous (adj. 變化莫測的) terrain (n. 地帶) and inclement (adj. 惡劣的) weather conditions.",
-          "The make-or-break exam has given rise to a multimillion-dollar private tutoring business in the city.",
-          "Lack of public space severely affects the city's all-important tourist industry.",
-          "The risky investment in cryptocurrency (n. 加密貨幣) has put many investors' savings at stake."
-        ],
-        "baatDaapBox": ""
+        "notes": [
+          { "text": "風險高的 / 把稅", "ink": "blue" }
+        ]
       },
       {
         "id": "p4-11",
-        "issue": 4,
         "phrase": "getaway",
-        "zh": "短假期 / 逃離",
-        "grammarTag": "n.",
-        "exampleSentence": "The serene village provides city dwellers with a much-needed getaway from their hectic schedules.",
-        "handwrittenNotes": "短假期 / 逃離 | 非常需要 | much needed = badly needed | serene = tranquil | getaway / respite / breather / break from | 鬆一口氣",
+        "zh": "短假期/逃離",
+        "grammar": "n.",
+        "connotation": "positive",
+        "example": {
+          "sentence": "The serene village provides city dwellers with a much-needed getaway from their hectic schedules.",
+          "highlights": [
+            { "word": "serene", "zh": "寧靜的" },
+            { "word": "dwellers", "zh": "居民" }
+          ]
+        },
         "synonyms": [
-          { "word": "respite", "tag": "n.", "connotation": "neutral" },
-          { "word": "breather", "tag": "n.", "connotation": "neutral" },
-          { "word": "break", "tag": "n.", "connotation": "neutral" }
+          { "word": "respite", "grammar": "n.", "note": "" },
+          { "word": "breather", "grammar": "n.", "note": "" },
+          { "word": "break", "grammar": "n.", "note": "" }
         ],
-        "superReinforcement": [
-          "She planned a weekend getaway with her best friends in celebration of (phr. 為慶祝…) her birthday.",
-          "Drug addicts generally think that taking drugs could bring them a brief respite from the harsh reality.",
-          "After months of hard work, many public exam candidates got away for a few days, treating themselves to a short overseas trip.",
-          "The Hong Kong Observation Wheel is a perfect weekend getaway (n. 出走旅遊的景點) where you can enjoy fascinating views on a ride there.",
-          "Most employees have no alternative but to work overtime, sacrificing their much-needed work-life balance.",
-          "After all the studying and exams, the students were in desperate need of (phr. 極度需要) a badly needed respite."
-        ],
-        "baatDaapBox": ""
+        "notes": [
+          { "text": "短假期/逃離 | 非常需要 | much needed = badly needed | serene = tranquil", "ink": "blue" }
+        ]
       },
       {
         "id": "p4-12",
-        "issue": 4,
         "phrase": "benefit considerably from ...",
         "zh": "由…獲得重大好處",
-        "grammarTag": "+ N.",
-        "exampleSentence": "Students will benefit considerably from the programme.",
-        "handwrittenNotes": "由…獲得重大好處 | benefit considerably from ≈ tremendously / enormously / substantially / immensely | 40倍獲得 reap considerable benefits from | 2) The programme will benefit student (物) | benefit = be beneficial to / bring ∴ benefit to / will be of benefit to | × passive voice × be benefited from",
+        "grammar": "+ N.",
+        "connotation": "positive",
+        "example": {
+          "sentence": "Students will benefit considerably from the programme.",
+          "highlights": []
+        },
         "synonyms": [
-          { "word": "benefit tremendously from", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "benefit enormously from", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "benefit substantially from", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "benefit immensely from", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "reap considerable benefits from", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "be beneficial to", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "bring benefit to", "tag": "+ N.", "connotation": "neutral" },
-          { "word": "be of benefit to", "tag": "+ N.", "connotation": "neutral" }
+          { "word": "benefit tremendously/enormously/substantially/immensely from", "grammar": "+ N.", "note": "" },
+          { "word": "reap considerable benefits from", "grammar": "+ N.", "note": "40倍獲得" },
+          { "word": "be beneficial to", "grammar": "+ N.", "note": "" },
+          { "word": "bring benefit to", "grammar": "+ N.", "note": "" },
+          { "word": "be of benefit to", "grammar": "+ N.", "note": "" }
         ],
-        "superReinforcement": [
-          "Students would benefit considerably from a broader range of elective courses which allow them to explore various interests and potential career paths.",
-          "By investing in renewable energy sources, the city reaped substantial benefits from improved energy efficiency and reduced operating costs.",
-          "The benefits of having a healthy diet to one's physical health and mental well-being are immense.",
-          "Developing effective time management skills is immensely beneficial to students, as it helps them prioritize tasks and strike a healthy work-life balance.",
-          "Embracing inclusion (n. 包容) and diversity (n. 差異) at work benefits companies by fostering (v. 促進) innovation and creativity.",
-          "Learning a second language can be of huge benefit to individuals, as it opens up opportunities for career progression (n. 發展).",
-          "It will be to students' benefit to engage in group study sessions as these can provide different perspectives and deepen their understanding of the subject."
-        ],
-        "baatDaapBox": ""
+        "notes": [
+          { "text": "由…獲得重大好處 | × passive voice × be benefited from", "ink": "red" },
+          { "text": "2) The programme will benefit students (物) = be beneficial to / bring benefit to / be of benefit to", "ink": "blue" }
+        ]
       }
     ],
-    "sampleEssays": [
+    "essays": [
       {
         "id": "e4-1",
-        "issue": 4,
-        "title": "Debate Speech on Policy of Abolishing Students' Class Position",
-        "question": "18 DSE P2 Q.5",
-        "mark": "M1: 21 / M2: 21 / C: 21",
-        "level": "5**",
-        "type": "Debate Speech (Debating)",
-        "context": "You are representing your school at an inter-school debating competition. The motion is: 'The policy of reporting students' class position should be abolished'.",
-        "diction": [
-          { "num": 1, "word": "privilege", "zh": "n. 榮幸" },
-          { "num": 2, "word": "deflated", "zh": "adj. 灰心泄氣的" },
-          { "num": 3, "word": "demerit", "zh": "n. 缺點" },
-          { "num": 4, "word": "inordinate", "zh": "adj. 過度的" },
-          { "num": 5, "word": "exasperate", "zh": "v. 激怒" },
-          { "num": 6, "word": "aggravate", "zh": "v. 惡化" },
-          { "num": 7, "word": "complacent", "zh": "adj. 自滿的" },
-          { "num": 8, "word": "spring up", "zh": "v. 出現" },
-          { "num": 9, "word": "fight tooth and nail", "zh": "exp. 殊死拼搏" },
-          { "num": 10, "word": "abyss", "zh": "n. 深淵" },
-          { "num": 11, "word": "churn out", "zh": "v. 濫粗製造" },
-          { "num": 12, "word": "uphold", "zh": "v. 維護/堅持" },
-          { "num": 13, "word": "striking", "zh": "adj. 顯著/突出的" },
-          { "num": 14, "word": "humanities", "zh": "n. 人文學科" },
-          { "num": 15, "word": "Tiger Mom and Helicopter Parent", "zh": "phr. 虎媽與直升機父母/怪獸家長" },
-          { "num": 16, "word": "gauge", "zh": "v. 評定" },
-          { "num": 17, "word": "cite … as …", "zh": "v. 舉…為…之佐證" },
-          { "num": 18, "word": "speak volumes about", "zh": "exp. 說明" },
-          { "num": 19, "word": "trivial", "zh": "adj. 瑣碎的" },
-          { "num": 20, "word": "ill-founded", "zh": "adj. 缺乏根據的" },
-          { "num": 21, "word": "proliferation", "zh": "n. 激增" },
-          { "num": 22, "word": "utilitarianism", "zh": "n. 功利主義" },
-          { "num": 23, "word": "prevail", "zh": "v. 盛行" },
-          { "num": 24, "word": "patently", "zh": "adv. 明顯地" }
-        ],
-        "body": [
+        "title": "Debate Speech: Abolishing Students' Class Position",
+        "meta": "18 DSE P2 Q.5 | Mark: M1:21 / M2:21 / C:21 | Level: 5** | Debate Speech (Debating)",
+        "paragraphs": [
           {
-            "para": "Good morning adjudicators, guests, the opposition side, and students,\n\nI am Chris Wong, the captain of our team. Today, it is my privilege¹ to stand here to argue for the motion that 'the policy of reporting students' class position should be abolished.'",
-            "highlights": [],
-            "annotations": []
-          },
-          {
-            "para": "To all the guests and students sitting here in the hall, can you still vividly recall your feelings when you last received your report card with a long list of numbers indicating your position? Did you feel excited? Delighted? Deflated²? Or desperate? Are you satisfied with the fact that your academic results are determined by a set of numbers? <span class='hl-yellow'>While some contend that</span> these numbers are good indicators that drive students to academic achievements, my team holds firmly to the belief that these rankings are <span class='hl-green' data-zh='純粹的惡'>merely</span> evils <span class='hl-yellow'>suffocating students</span> and the policy of reporting students' class position should be abolished. My team have three points to make.",
-            "highlights": ["While some contend that", "suffocating students", "merely"],
-            "annotations": [
-              { "text": "△的 -ve 中", "color": "blue", "position": "margin" },
-              { "text": "最佳人個假借善意 / Topic Sen", "color": "blue", "position": "top" }
+            "label": "",
+            "segments": [
+              { "type": "text", "content": "Good morning adjudicators, guests, the opposition side, and students,\n\nI am Chris Wong, the captain of our team. Today, it is my " },
+              { "type": "highlight", "color": "green", "content": "privilege", "meaning": "n. 榮幸" },
+              { "type": "text", "content": " to stand here to argue for the motion that 'the policy of reporting students' class position should be abolished.'" }
             ]
           },
           {
-            "para": "<span class='hl-pink'>Among all the demerits³ of this system, the most noteworthy one is that</span> reporting students' class position <span class='hl-yellow'>distorts</span> the genuine purpose of education. Under the current education system in Hong Kong which <span class='hl-yellow'>is fixated on</span> good grades, students attach inordinate⁴ importance to examinations as they believe that <span class='hl-yellow'>passing exams with flying colours</span> would guarantee them a spot in university and thus a prosperous future. This <span class='hl-green' data-zh='惡名昭彰地'>notoriously</span> demanding education system has long <span class='hl-green' data-zh='激怒'>exasperated⁵</span> students, and the system of reporting students' class position has <span class='hl-green' data-zh='惡化'>aggravated⁶</span> that. Just imagine this. After seeing these numbers on the report card, what would your first thought? Probably you will catch <span class='hl-yellow'>a glimpse of</span> the results of other classmates to make a comparison. If one is better than others, they will become <span class='hl-green' data-zh='自滿的'>complacent⁷</span> and the desire to maintain this 'social status' will <span class='hl-green' data-zh='出現'>spring up⁸</span>, making them <span class='hl-yellow'>fight tooth and nail⁹</span> just to get a decent class position. Education would become a ranking game from their perspective, and the <span class='hl-green' data-zh='真正的'>genuine</span> meaning of education would be lost. If one loses this game against others, they might fall into <span class='hl-yellow'>a dark abyss¹⁰</span> and deem themselves to be failures. The system of reporting class positions would therefore merely <span class='hl-green' data-zh='濫粗製造'>churn out¹¹</span> exam machines, rather than <span class='hl-green' data-zh='維護'>upholding¹²</span> the meaning of education – to help students develop their own talent. With this in mind, <span class='hl-yellow'>this system should be scrapped.</span>",
-            "highlights": ["Among all the demerits of this system, the most noteworthy one is that", "is fixated on", "passing exams with flying colours", "a glimpse of", "fight tooth and nail", "a dark abyss", "this system should be scrapped.", "distorts", "notoriously"],
-            "annotations": [
-              { "text": "e的 -ve 中", "color": "blue", "position": "margin-left" },
-              { "text": "最佳人個假借善意 / Topic Sen", "color": "green", "position": "top" }
+            "label": "",
+            "marginNote": { "text": "△的 -ve 中 | 最佳人個假借善意 / Topic Sen", "ink": "blue" },
+            "segments": [
+              { "type": "text", "content": "To all the guests and students sitting here in the hall, can you still vividly recall your feelings when you last received your report card with a long list of numbers indicating your position? Did you feel excited? Delighted? " },
+              { "type": "highlight", "color": "green", "content": "Deflated", "meaning": "adj. 灰心泄氣的" },
+              { "type": "text", "content": "? Or desperate? Are you satisfied with the fact that your academic results are determined by a set of numbers? " },
+              { "type": "highlight", "color": "yellow", "content": "While some contend that", "meaning": "雖然有人認為…" },
+              { "type": "text", "content": " these numbers are good indicators that drive students to academic achievements, my team holds firmly to the belief that these rankings are " },
+              { "type": "highlight", "color": "green", "content": "merely", "meaning": "adv. 僅僅" },
+              { "type": "text", "content": " evils " },
+              { "type": "highlight", "color": "yellow", "content": "suffocating students", "meaning": "令學生窒息" },
+              { "type": "text", "content": " and the policy of reporting students' class position should be abolished. My team have three points to make." }
             ]
           },
           {
-            "para": "On top of distorting the purpose of education, the system of reporting students' class position is unfair to students, especially the higher form students. As you all know, the NSS curriculum allows students to opt for different electives and the combinations of electives are countless. As each subject may have a distinct mode of assessment, it makes no sense to compare students' class positions based on the average score calculated using the marks of different subjects. I myself is a <span class='hl-green' data-zh='顯著的'>striking¹³</span> example of this. As I am keen on <span class='hl-green' data-zh='人文學科'>humanities¹⁴</span>, I am studying English Literature and Chinese History as my electives. Yet, the scores I obtained in the exams for these subjects were lower than my classmates who take science subjects even if I was the best student in my elective class last year. My class position turned out to be far from excellent. Does this imply that I didn't perform well in my exams? Does this imply others who ranked high were necessarily better than me? Obviously not. Given that students take different electives in senior secondary school, class position does not mean a lot and should thus be abolished.",
-            "highlights": ["striking", "humanities"],
-            "annotations": []
-          },
-          {
-            "para": "Here comes our final argument – the system of reporting students' class position will <span class='hl-yellow'>exacerbate the phenomenon</span> of 'Tiger Parents' in Hong Kong, ultimately putting a huge strain on students. Our city is infamous for <span class='hl-yellow'>Tiger Moms and Helicopter Parents¹⁵</span> who <span class='hl-yellow'>exert massive pressure on</span> their children and desperately want them to <span class='hl-green' data-zh='表現出眾'>excel</span> in extra-curricular activities and exams alike. [HANDWRITTEN: A / B→ 不只A還是B | ∧Both] As parents may not know much about the school curriculum or how well their children perform, the one and only indicator for them to <span class='hl-green' data-zh='評定'>gauge¹⁶</span> their children's performance would be their class position. According to a research study conducted by the University of Hong Kong, the majority of students agreed that parents had showed dissatisfaction with their class position, and <span class='hl-green' data-zh='引用…作為…佐證'>cited</span> parental expectations <span class='hl-green'>as¹⁷</span> a main source of pressure. [HANDWRITTEN: e.j. 清楚說明③] These <span class='hl-yellow'>speak volumes about¹⁸</span> the fact that disclosing class position to parents may make parents more demanding when it comes to their children's academic results. It is lamentable to see that such <span class='hl-green' data-zh='瑣碎的'>trivial¹⁹</span> numbers on report cards ironically provoke bitter arguments between family members and even impede parent-child relationship. Under this line of thinking, the system should be abolished.",
-            "highlights": ["exacerbate the phenomenon", "Tiger Moms and Helicopter Parents", "exert massive pressure on", "speak volumes about"],
-            "annotations": [
-              { "text": "獸∧∨ | 不只A還是B", "color": "blue", "position": "margin" },
-              { "text": "e.j 清楚說明③", "color": "blue", "position": "inline" }
+            "label": "",
+            "segments": [
+              { "type": "highlight", "color": "pink", "content": "Among all the demerits of this system, the most noteworthy one is that", "meaning": "n. 缺點 | Topic Sentence structure" },
+              { "type": "text", "content": " reporting students' class position " },
+              { "type": "highlight", "color": "yellow", "content": "distorts", "meaning": "扭曲" },
+              { "type": "text", "content": " the genuine purpose of education. Under the current education system in Hong Kong which " },
+              { "type": "box", "content": "is fixated on", "meaning": "沉迷於/固執於", "synonyms": ["be obsessed with", "be preoccupied with", "be steeped in"] },
+              { "type": "text", "content": " good grades, students attach inordinate importance to examinations as they believe that " },
+              { "type": "highlight", "color": "yellow", "content": "passing exams with flying colours", "meaning": "以優異成績通過考試" },
+              { "type": "text", "content": " would guarantee them a spot in university. This " },
+              { "type": "highlight", "color": "green", "content": "notoriously", "meaning": "adv. 惡名昭彰地" },
+              { "type": "text", "content": " demanding education system has long " },
+              { "type": "highlight", "color": "green", "content": "exasperated", "meaning": "v. 激怒" },
+              { "type": "text", "content": " students, and the system has " },
+              { "type": "highlight", "color": "green", "content": "aggravated", "meaning": "v. 惡化" },
+              { "type": "text", "content": " that. Probably you will catch " },
+              { "type": "highlight", "color": "yellow", "content": "a glimpse of", "meaning": "瞥一眼" },
+              { "type": "text", "content": " the results of other classmates. If one is better than others, they will become " },
+              { "type": "highlight", "color": "green", "content": "complacent", "meaning": "adj. 自滿的" },
+              { "type": "text", "content": " and the desire will " },
+              { "type": "highlight", "color": "green", "content": "spring up", "meaning": "v. 出現" },
+              { "type": "text", "content": ", making them " },
+              { "type": "box", "content": "fight tooth and nail", "meaning": "exp. 殊死拼搏", "synonyms": ["struggle relentlessly", "battle with all one's might"] },
+              { "type": "text", "content": " just to get a decent class position. If one loses this game, they might fall into " },
+              { "type": "highlight", "color": "yellow", "content": "a dark abyss", "meaning": "n. 深淵" },
+              { "type": "text", "content": " and deem themselves to be failures. The system would therefore merely " },
+              { "type": "highlight", "color": "green", "content": "churn out", "meaning": "v. 濫粗製造" },
+              { "type": "text", "content": " exam machines, rather than " },
+              { "type": "highlight", "color": "green", "content": "upholding", "meaning": "v. 維護/堅持" },
+              { "type": "text", "content": " the meaning of education. With this in mind, " },
+              { "type": "highlight", "color": "yellow", "content": "this system should be scrapped.", "meaning": "百搭結尾句" }
+            ],
+            "handNotes": [
+              { "text": "e的 -ve 中 | 最佳人個假借善意 → Topic Sen", "ink": "blue" }
             ]
           },
           {
-            "para": "Our dearest opponents would counter our stance, contending that class position forces students to improve their performance in exams and provides an incentive for them to reflect on the problems they have in learning. Such an argument is based on the belief that scores alone are not useful enough as they do not reflect one's performance relative to other students, while rankings are better indicators for students to compare their performances each time. Yet, such a claim is <span class='hl-green' data-zh='缺乏根據的'>ill-founded²⁰</span>. While it is acknowledged that scores do not reflect one's true ability, I think the opposition team has overlooked the function of grades. Isn't assigning students different grades already enough to reflect their strengths and shortcomings? Is it really necessary to impose an extra burden on students by disclosing their rankings? With this in mind, the opponent's argument does not stand.",
-            "highlights": ["ill-founded"],
-            "annotations": []
+            "label": "",
+            "segments": [
+              { "type": "text", "content": "On top of distorting the purpose of education, the system is unfair to students, especially the higher form students. As you all know, the NSS curriculum allows students to opt for different electives. As each subject may have a distinct mode of assessment, it makes no sense to compare students' class positions. I myself is a " },
+              { "type": "highlight", "color": "green", "content": "striking", "meaning": "adj. 顯著/突出的" },
+              { "type": "text", "content": " example of this. As I am keen on " },
+              { "type": "highlight", "color": "green", "content": "humanities", "meaning": "n. 人文學科" },
+              { "type": "text", "content": ", I am studying English Literature and Chinese History as my electives. Yet, the scores I obtained were lower than classmates who take science subjects even if I was the best student in my elective class. Given that students take different electives, class position does not mean a lot and should thus be abolished." }
+            ]
           },
           {
-            "para": "To conclude, it is the system of reporting students' rankings that distorts the real meaning of education, that creates gross unfairness, and that triggers the <span class='hl-green' data-zh='激增'>proliferation²¹</span> of Tiger Parents. Our dear audience, do you want to see our teenagers growing up in such a stressful environment? Our dear adjudicators, as a teacher would you want our future generation to learn in an environment in which <span class='hl-green' data-zh='功利主義'>utilitarianism²²</span> <span class='hl-green' data-zh='盛行'>prevails²³</span>? Our dear fellow students, do you want your success to be judged solely by the numbers on report cards? It is <span class='hl-green' data-zh='明顯地'>patently²³</span> obvious that abolishing the system of reporting students' class position is the prerequisite for improving our problematic education system. Today's motion must therefore stand. Thank you!",
-            "highlights": ["proliferation", "utilitarianism", "prevails", "patently"],
-            "annotations": []
+            "label": "",
+            "marginNote": { "text": "獸∧∨ 不只A還是B | ∧Both", "ink": "blue" },
+            "segments": [
+              { "type": "text", "content": "Here comes our final argument — the system will " },
+              { "type": "highlight", "color": "yellow", "content": "exacerbate the phenomenon", "meaning": "加劇這個現象" },
+              { "type": "text", "content": " of 'Tiger Parents' in Hong Kong, ultimately putting a huge strain on students. Our city is infamous for " },
+              { "type": "highlight", "color": "yellow", "content": "Tiger Moms and Helicopter Parents", "meaning": "phr. 虎媽與直升機父母/怪獸家長" },
+              { "type": "text", "content": " who " },
+              { "type": "box", "content": "exert massive pressure on", "meaning": "施壓", "synonyms": ["put a great strain on", "place under constant pressure"] },
+              { "type": "text", "content": " their children and desperately want them to excel in extra-curricular activities and exams alike. As parents may not know much about the school curriculum, the one and only indicator for them to " },
+              { "type": "highlight", "color": "green", "content": "gauge", "meaning": "v. 評定" },
+              { "type": "text", "content": " their children's performance would be their class position. The majority of students " },
+              { "type": "highlight", "color": "green", "content": "cited", "meaning": "v. 引用" },
+              { "type": "text", "content": " parental expectations as a main source of pressure. These " },
+              { "type": "box", "content": "speak volumes about", "meaning": "exp. 清楚說明", "synonyms": ["point to", "lay bare", "bring to light", "indicate"] },
+              { "type": "text", "content": " the fact that disclosing class position to parents may make parents more demanding. It is lamentable to see that such " },
+              { "type": "highlight", "color": "green", "content": "trivial", "meaning": "adj. 瑣碎的" },
+              { "type": "text", "content": " numbers on report cards ironically provoke bitter arguments between family members. Under this line of thinking, the system should be abolished." }
+            ],
+            "handNotes": [
+              { "text": "e.j 清楚說明③", "ink": "blue" }
+            ]
+          },
+          {
+            "label": "",
+            "segments": [
+              { "type": "text", "content": "Our dearest opponents would counter our stance, contending that class position forces students to improve their performance. Yet, such a claim is " },
+              { "type": "highlight", "color": "green", "content": "ill-founded", "meaning": "adj. 缺乏根據的" },
+              { "type": "text", "content": ". Isn't assigning students different grades already enough to reflect their strengths and shortcomings? Is it really necessary to impose an extra burden on students by disclosing their rankings? With this in mind, the opponent's argument does not stand." }
+            ]
+          },
+          {
+            "label": "",
+            "segments": [
+              { "type": "text", "content": "To conclude, it is the system of reporting students' rankings that distorts the real meaning of education, that creates gross unfairness, and that triggers the " },
+              { "type": "highlight", "color": "green", "content": "proliferation", "meaning": "n. 激增" },
+              { "type": "text", "content": " of Tiger Parents. It is " },
+              { "type": "highlight", "color": "green", "content": "patently", "meaning": "adv. 明顯地" },
+              { "type": "text", "content": " obvious that abolishing the system of reporting students' class position is the prerequisite for improving our problematic education system. Today's motion must therefore stand. Thank you!" }
+            ]
           }
         ]
       },
       {
         "id": "e4-2",
-        "issue": 4,
         "title": "Letter to Parents: Digital Detox Workshop",
-        "question": "Exam Language Focus R4.3-4.4",
-        "type": "Letter (Social Issues)",
-        "context": "You are Chris Wong, the class teacher of 6A. Your school is organising a digital detox workshop, where participants can cut themselves off from electronic devices for a certain period of time. You would like to invite parents to join the workshop with their children. Write a letter to parents giving them the necessary information about the workshop, explaining its goals and outlining its details.",
-        "diction": [
-          { "num": 1, "word": "digital detox", "zh": "phr. 數碼健康/電子排毒" },
-          { "num": 2, "word": "smartphone penetration rate", "zh": "phr. 智能電話覆蓋率" },
-          { "num": 3, "word": "staggering", "zh": "adj. 驚人的" },
-          { "num": 4, "word": "before bed", "zh": "phr. 上床睡覺前" },
-          { "num": 5, "word": "attention span", "zh": "phr. 集中力時間" },
-          { "num": 6, "word": "come on the market", "zh": "exp. 面世" },
-          { "num": 7, "word": "a series of", "zh": "phr. 一系列的" },
-          { "num": 8, "word": "realm", "zh": "n. 領域" },
-          { "num": 9, "word": "uninterrupted", "zh": "adj. 不間斷的" },
-          { "num": 10, "word": "to date", "zh": "phr. 到目前為止" },
-          { "num": 11, "word": "high-stakes", "zh": "adj. 關係重大的" },
-          { "num": 12, "word": "getaway", "zh": "n. 短假" },
-          { "num": 13, "word": "gruelling", "zh": "adj. 使人筋疲力盡的" },
-          { "num": 14, "word": "breather", "zh": "n. 短暫休息" },
-          { "num": 15, "word": "juggle", "zh": "v. 兼顧" },
-          { "num": 16, "word": "miscellaneous", "zh": "adj. 其他的" },
-          { "num": 17, "word": "guardian", "zh": "n. 監護人" },
-          { "num": 18, "word": "attach", "zh": "v. 附上" }
-        ],
-        "body": [
+        "meta": "Exam Language Focus R4.3-4.4 | Letter (Social Issues) | 電子排毒",
+        "paragraphs": [
           {
-            "para": "Dear Parents,\n\nI am writing to invite you and your child to take part in a two-day <span class='hl-yellow'>digital detox¹</span> camp scheduled for next month. This is a wonderful opportunity for parents and students to put down electronic gadgets, spend quality time together and reconnect with each other.",
-            "highlights": ["digital detox"],
-            "annotations": [{ "text": "在e聯因 中", "color": "blue", "position": "margin" }]
+            "label": "",
+            "segments": [
+              { "type": "text", "content": "Dear Parents,\n\nI am writing to invite you and your child to take part in a two-day " },
+              { "type": "box", "content": "digital detox", "meaning": "phr. 數碼健康/電子排毒", "synonyms": ["going tech free", "unplugging from digital life", "embarking on a social media cleanse"] },
+              { "type": "text", "content": " camp scheduled for next month. This is a wonderful opportunity for parents and students to put down electronic gadgets, spend quality time together and reconnect with each other." }
+            ],
+            "marginNote": { "text": "在e聯因 中", "ink": "blue" }
           },
           {
-            "para": "<span class='hl-yellow'>Chief among the reasons</span> why we are holding such a camp after the final exams is that we would like to help parents and students <span class='hl-yellow'>take a break from</span> the online world. According to official figures, Hong Kong has one of the world's highest smartphone penetration rates² at a <span class='hl-green' data-zh='驚人的'>staggering³</span> 89.8% for people aged ten or above. For many, it is the first object they grab in the morning and the last thing they look at <span class='hl-yellow'>before bed⁴</span>. Research has shown that there is <span class='hl-yellow'>a close correspondence between</span> the use of social media and anxiety. The human <span class='hl-green' data-zh='集中力時間'>attention span⁵</span> has also declined sharply over the past decade since the first smartphones <span class='hl-yellow'>came on the market⁶</span>. Hyper-connectivity could <span class='hl-yellow'>bring more harm than good.</span> Through <span class='hl-yellow'>a series of⁷</span> activities and workshops, the camp aims to help teenagers balance tech time with face time. And your company and participation <span class='hl-yellow'>are of the utmost importance</span> in guiding and supporting them.",
-            "highlights": ["Chief among the reasons", "take a break from", "a close correspondence between", "before bed", "came on the market", "bring more harm than good.", "a series of", "are of the utmost importance"],
-            "annotations": [
-              { "text": "因果閉係", "color": "blue", "position": "margin" },
-              { "text": "~密切有情", "color": "blue", "position": "inline" }
+            "label": "",
+            "segments": [
+              { "type": "highlight", "color": "yellow", "content": "Chief among the reasons", "meaning": "在所有原因中最主要的是…" },
+              { "type": "text", "content": " why we are holding such a camp is that we would like to help parents and students " },
+              { "type": "box", "content": "take a break from", "meaning": "遠離", "synonyms": ["escape from", "cut ourselves off from", "have a respite from"] },
+              { "type": "text", "content": " the online world. According to official figures, Hong Kong has one of the world's highest smartphone penetration rates at a " },
+              { "type": "highlight", "color": "green", "content": "staggering", "meaning": "adj. 驚人的" },
+              { "type": "text", "content": " 89.8% for people aged ten or above. Research has shown that there is " },
+              { "type": "box", "content": "a close correspondence between", "meaning": "…與…之間的密切關係", "synonyms": ["an inseparable link between", "a strong correlation between"] },
+              { "type": "text", "content": " the use of social media and anxiety. The human " },
+              { "type": "highlight", "color": "green", "content": "attention span", "meaning": "phr. 集中力時間" },
+              { "type": "text", "content": " has also declined sharply since the first smartphones " },
+              { "type": "highlight", "color": "yellow", "content": "came on the market", "meaning": "exp. 面世" },
+              { "type": "text", "content": ". Hyper-connectivity could " },
+              { "type": "highlight", "color": "yellow", "content": "bring more harm than good.", "meaning": "帶來弊多於利" },
+              { "type": "text", "content": " And your company and participation " },
+              { "type": "highlight", "color": "yellow", "content": "are of the utmost importance", "meaning": "非常重要" },
+              { "type": "text", "content": " in guiding and supporting them." }
+            ],
+            "marginNote": { "text": "因果關係", "ink": "blue" }
+          },
+          {
+            "label": "",
+            "segments": [
+              { "type": "text", "content": "In addition to shunning the " },
+              { "type": "highlight", "color": "green", "content": "realm", "meaning": "n. 領域" },
+              { "type": "text", "content": " of social media, we think it would be great if you could spend some " },
+              { "type": "highlight", "color": "green", "content": "uninterrupted", "meaning": "adj. 不間斷的" },
+              { "type": "text", "content": " time with your child before their biggest challenge " },
+              { "type": "highlight", "color": "yellow", "content": "to date", "meaning": "phr. 到目前為止" },
+              { "type": "text", "content": " — the DSE exams. A weekend " },
+              { "type": "box", "content": "getaway", "meaning": "n. 短假", "synonyms": ["respite", "breather", "break"] },
+              { "type": "text", "content": " in early March is a much-needed " },
+              { "type": "highlight", "color": "yellow", "content": "breather", "meaning": "n. 短暫休息" },
+              { "type": "text", "content": ". We believe you would " },
+              { "type": "box", "content": "benefit considerably from", "meaning": "由…獲得重大好處", "synonyms": ["benefit immensely from", "reap considerable benefits from"] },
+              { "type": "text", "content": " it too. It is time we gave ourselves some spaces to slow down, unbreak our brains and " },
+              { "type": "highlight", "color": "yellow", "content": "cement", "meaning": "加強/鞏固" },
+              { "type": "text", "content": " the relationship with our younger generation." }
+            ],
+            "marginNote": { "text": "路途 | 高風格 | 非常需要 | 加強/鞏固(固)", "ink": "blue" }
+          },
+          {
+            "label": "",
+            "segments": [
+              { "type": "text", "content": "With the above reasons and goals in mind, I am glad to announce that the digital wellness camp will take place from 10 am on Saturday, March 9th, to 6pm on Sunday, March 10th, at the Wu Kwai Sha Youth Village. The fee for each family is only HK$900, covering meals, refreshments, workshop materials, a night's stay and all " },
+              { "type": "highlight", "color": "green", "content": "miscellaneous", "meaning": "adj. 其他的" },
+              { "type": "text", "content": " charges. Each student will only be accompanied by one parent or " },
+              { "type": "highlight", "color": "green", "content": "guardian", "meaning": "n. 監護人" },
+              { "type": "text", "content": ". After the camp, each student will need to make a short video sharing their experience. The best five clips will be posted on our school's website." }
             ]
           },
           {
-            "para": "In addition to shunning the <span class='hl-green' data-zh='領域'>realm⁸</span> of social media, we think it would be great if you could spend some <span class='hl-green' data-zh='不間斷的'>uninterrupted⁹</span> time with your child before their biggest challenge <span class='hl-yellow'>to date¹⁰</span> – the DSE exams. The majority of students in our class say they are highly stressed, the main source of that being the possibility of not getting the desired results in the <span class='hl-yellow'>high-stakes¹¹</span> university entrance exam. A weekend <span class='hl-yellow'>getaway¹²</span> in early March, where our students can take time out of their <span class='hl-green' data-zh='令人筋疲力盡的'>gruelling¹³</span> schedule to play games, watch full-length movies and have long conversations with their family and friends, is a much-needed <span class='hl-yellow'>breather¹⁴</span>. We believe you would <span class='hl-yellow'>benefit considerably from</span> it too. As parents, we all know how hard it is to <span class='hl-green' data-zh='兼顧'>juggle¹⁵</span> our jobs, our children's needs and our housework. It is time we gave ourselves some spaces to slow down, unbreak our brains and <span class='hl-yellow'>cement</span> the relationship with our younger generation.",
-            "highlights": ["to date", "high-stakes", "getaway", "breather", "benefit considerably from", "cement"],
-            "annotations": [
-              { "text": "路途 | 高風格 | 非常需要", "color": "blue", "position": "margin" },
-              { "text": "加強/鞏固(固)", "color": "blue", "position": "inline" }
+            "label": "",
+            "segments": [
+              { "type": "text", "content": "We believe that the camp will be a good time for students to interact with their classmates and parents outside the classroom. It is sincerely hoped that you will join with your child to participate in this meaningful activity. Please submit the reply slip " },
+              { "type": "highlight", "color": "green", "content": "attached", "meaning": "v. 附上" },
+              { "type": "text", "content": " to the general office on or before February 15th. If you have any questions, please do not hesitate to contact me at 3345 6789.\n\nYours faithfully,\nChris Wong\n6A Class Teacher\nHong Kong College" }
             ]
-          },
-          {
-            "para": "With the above reasons and goals in mind, I am glad to announce that the digital wellness camp, co-organised with the non-profit group "Be A Smart Phone User", will take place from 10 am on Saturday, March 9th, to 6pm on Sunday, March 10th, at the Wu Kwai Sha Youth Village. The school will arrange a shuttle bus to take the class to and from the venue that weekend. With the generous support of our school board, the fee for each family is only HK$900, covering meals, refreshments, workshop materials, a night's stay and all <span class='hl-green' data-zh='其他的'>miscellaneous¹⁶</span> charges including the entry fee and transportation. Given the limited number of rooms, each student will only be accompanied by one parent or <span class='hl-green' data-zh='監護人'>guardian¹⁷</span>. After the camp, each student will need to make a short video sharing their experience and saying a few words to their parents. The best five clips will be posted on our school's website.",
-            "highlights": ["miscellaneous", "guardian"],
-            "annotations": []
-          },
-          {
-            "para": "We believe that the camp will be a good time for students to interact with their classmates and parents outside the classroom, and to learn how to thrive in real life, not just in their digital lives. It is sincerely hoped that you will join with your child to participate in this meaningful activity. Please submit the reply slip <span class='hl-green' data-zh='附上'>attached¹⁸</span> to the general office on or before February 15th. The fees will be collected at a later time. If you have any questions, please do not hesitate to contact me at 3345 6789.\n\nYours faithfully,\nChris Wong\n6A Class Teacher\nHong Kong College",
-            "highlights": ["attached"],
-            "annotations": []
           }
         ]
       }
     ]
   },
-  "vocabBook": {
-    "groups": [
-      {
-        "id": "vg-decline",
-        "zhMeaning": "下跌/衰退",
-        "words": [
-          { "word": "plummet", "zh": "暴跌", "source": "r4-1" },
-          { "word": "sluggish", "zh": "遲緩的", "source": "r4-1" }
-        ]
-      },
-      {
-        "id": "vg-medical",
-        "zhMeaning": "醫療相關",
-        "words": [
-          { "word": "nurture", "zh": "培養", "source": "r4-2" },
-          { "word": "renowned", "zh": "知名的", "source": "r4-2" },
-          { "word": "subtle", "zh": "細微的", "source": "r4-2" }
-        ]
-      },
-      {
-        "id": "vg-fire",
-        "zhMeaning": "火災/危險",
-        "words": [
-          { "word": "engulf", "zh": "吞噬", "source": "r4-3" },
-          { "word": "substandard", "zh": "不合格的", "source": "r4-3" },
-          { "word": "combustible", "zh": "易燃的", "source": "r4-3" },
-          { "word": "outpouring", "zh": "湧現", "source": "r4-3" },
-          { "word": "compassion", "zh": "同情心", "source": "r4-3" }
-        ]
-      },
-      {
-        "id": "vg-economy",
-        "zhMeaning": "經濟/財富",
-        "words": [
-          { "word": "diversified", "zh": "多樣化的", "source": "r4-4" },
-          { "word": "mercenary", "zh": "唯利是圖的", "source": "r4-4" }
-        ]
-      },
-      {
-        "id": "vg-education",
-        "zhMeaning": "教育相關",
-        "words": [
-          { "word": "privilege", "zh": "榮幸", "source": "e4-1" },
-          { "word": "deflated", "zh": "灰心泄氣的", "source": "e4-1" },
-          { "word": "demerit", "zh": "缺點", "source": "e4-1" },
-          { "word": "inordinate", "zh": "過度的", "source": "e4-1" },
-          { "word": "exasperate", "zh": "激怒", "source": "e4-1" },
-          { "word": "aggravate", "zh": "惡化", "source": "e4-1" },
-          { "word": "complacent", "zh": "自滿的", "source": "e4-1" },
-          { "word": "uphold", "zh": "維護/堅持", "source": "e4-1" },
-          { "word": "striking", "zh": "顯著/突出的", "source": "e4-1" },
-          { "word": "trivial", "zh": "瑣碎的", "source": "e4-1" },
-          { "word": "gauge", "zh": "評定", "source": "e4-1" },
-          { "word": "proliferation", "zh": "激增", "source": "e4-1" },
-          { "word": "utilitarianism", "zh": "功利主義", "source": "e4-1" },
-          { "word": "prevail", "zh": "盛行", "source": "e4-1" },
-          { "word": "patently", "zh": "明顯地", "source": "e4-1" }
-        ]
-      },
-      {
-        "id": "vg-digital",
-        "zhMeaning": "數碼/科技",
-        "words": [
-          { "word": "staggering", "zh": "驚人的", "source": "e4-2" },
-          { "word": "realm", "zh": "領域", "source": "e4-2" },
-          { "word": "uninterrupted", "zh": "不間斷的", "source": "e4-2" },
-          { "word": "gruelling", "zh": "使人筋疲力盡的", "source": "e4-2" },
-          { "word": "miscellaneous", "zh": "其他的", "source": "e4-2" },
-          { "word": "juggle", "zh": "兼顧", "source": "e4-2" }
-        ]
-      }
-    ]
-  },
-  "baatDaapSentences": [
-    { "id": "bd-4-1", "sentence": "While some contend that …, my team holds firmly to the belief that …", "source": "e4-1", "issue": 4 },
-    { "id": "bd-4-2", "sentence": "Among all the demerits of this system, the most noteworthy one is that …", "source": "e4-1", "issue": 4 },
-    { "id": "bd-4-3", "sentence": "With this in mind, this system should be scrapped.", "source": "e4-1", "issue": 4 },
-    { "id": "bd-4-4", "sentence": "fight tooth and nail", "source": "e4-1", "issue": 4 },
-    { "id": "bd-4-5", "sentence": "exacerbate the phenomenon of …", "source": "e4-1", "issue": 4 },
-    { "id": "bd-4-6", "sentence": "speak volumes about …", "source": "e4-1", "issue": 4 },
-    { "id": "bd-4-7", "sentence": "Chief among the reasons why … is that …", "source": "e4-2", "issue": 4 },
-    { "id": "bd-4-8", "sentence": "a close correspondence between … and …", "source": "e4-2", "issue": 4 },
-    { "id": "bd-4-9", "sentence": "bring more harm than good", "source": "e4-2", "issue": 4 },
-    { "id": "bd-4-10", "sentence": "are of the utmost importance", "source": "e4-2", "issue": 4 },
-    { "id": "bd-4-11", "sentence": "benefit considerably from …", "source": "p4-12", "issue": 4 },
-    { "id": "bd-4-12", "sentence": "maintain its status as a global financial center", "source": "r4-1", "issue": 4 },
-    { "id": "bd-4-13", "sentence": "overemphasis on exam-oriented reading and writing at the expense of conversational fluency", "source": "r4-1", "issue": 4 },
-    { "id": "bd-4-14", "sentence": "students' reluctance to speak English for fear of making mistakes and losing face", "source": "r4-1", "issue": 4 },
-    { "id": "bd-4-15", "sentence": "outpouring of support … reinforces Hong Kong's reputation as a city of compassion", "source": "r4-3", "issue": 4 },
-    { "id": "bd-4-16", "sentence": "rescue residents' pets", "source": "r4-3", "issue": 4 },
-    { "id": "bd-4-17", "sentence": "widening wealth gap within the creator economy", "source": "r4-4", "issue": 4 },
-    { "id": "bd-4-18", "sentence": "struggle to sustain basic livelihoods", "source": "r4-4", "issue": 4 }
+  "mainNotes": [],
+  "ideaPowerBank": [],
+  "nytDiy": [],
+  "shuJai": [],
+  "vocabBook": [
+    { "word": "plummet", "zh": "暴跌", "group": "P", "source": "Issue 4 News" },
+    { "word": "sluggish", "zh": "遲緩的", "group": "S", "source": "Issue 4 News" },
+    { "word": "nurture", "zh": "培養", "group": "N", "source": "Issue 4 News" },
+    { "word": "renowned", "zh": "知名的", "group": "R", "source": "Issue 4 News" },
+    { "word": "subtle", "zh": "細微的", "group": "S", "source": "Issue 4 News" },
+    { "word": "engulf", "zh": "吞噬", "group": "E", "source": "Issue 4 News" },
+    { "word": "substandard", "zh": "不合格的", "group": "S", "source": "Issue 4 News" },
+    { "word": "combustible", "zh": "易燃的", "group": "C", "source": "Issue 4 News" },
+    { "word": "outpouring", "zh": "湧現", "group": "O", "source": "Issue 4 News" },
+    { "word": "compassion", "zh": "同情心", "group": "C", "source": "Issue 4 News" },
+    { "word": "diversified", "zh": "多樣化的", "group": "D", "source": "Issue 4 News" },
+    { "word": "mercenary", "zh": "唯利是圖的", "group": "M", "source": "Issue 4 News" },
+    { "word": "inadvertently", "zh": "無意地", "group": "I", "source": "Issue 4 News" },
+    { "word": "privilege", "zh": "榮幸", "group": "P", "source": "Issue 4 Essay 1" },
+    { "word": "deflated", "zh": "灰心泄氣的", "group": "D", "source": "Issue 4 Essay 1" },
+    { "word": "demerit", "zh": "缺點", "group": "D", "source": "Issue 4 Essay 1" },
+    { "word": "inordinate", "zh": "過度的", "group": "I", "source": "Issue 4 Essay 1" },
+    { "word": "exasperate", "zh": "激怒", "group": "E", "source": "Issue 4 Essay 1" },
+    { "word": "aggravate", "zh": "惡化", "group": "A", "source": "Issue 4 Essay 1" },
+    { "word": "complacent", "zh": "自滿的", "group": "C", "source": "Issue 4 Essay 1" },
+    { "word": "uphold", "zh": "維護/堅持", "group": "U", "source": "Issue 4 Essay 1" },
+    { "word": "striking", "zh": "顯著/突出的", "group": "S", "source": "Issue 4 Essay 1" },
+    { "word": "trivial", "zh": "瑣碎的", "group": "T", "source": "Issue 4 Essay 1" },
+    { "word": "gauge", "zh": "評定", "group": "G", "source": "Issue 4 Essay 1" },
+    { "word": "proliferation", "zh": "激增", "group": "P", "source": "Issue 4 Essay 1" },
+    { "word": "utilitarianism", "zh": "功利主義", "group": "U", "source": "Issue 4 Essay 1" },
+    { "word": "prevail", "zh": "盛行", "group": "P", "source": "Issue 4 Essay 1" },
+    { "word": "patently", "zh": "明顯地", "group": "P", "source": "Issue 4 Essay 1" },
+    { "word": "staggering", "zh": "驚人的", "group": "S", "source": "Issue 4 Essay 2" },
+    { "word": "realm", "zh": "領域", "group": "R", "source": "Issue 4 Essay 2" },
+    { "word": "uninterrupted", "zh": "不間斷的", "group": "U", "source": "Issue 4 Essay 2" },
+    { "word": "gruelling", "zh": "使人筋疲力盡的", "group": "G", "source": "Issue 4 Essay 2" },
+    { "word": "miscellaneous", "zh": "其他的", "group": "M", "source": "Issue 4 Essay 2" },
+    { "word": "juggle", "zh": "兼顧", "group": "J", "source": "Issue 4 Essay 2" },
+    { "word": "rejuvenate", "zh": "煥新", "group": "R", "source": "Issue 4 Phrases" },
+    { "word": "distressing", "zh": "令人擔憂的", "group": "D", "source": "Issue 4 Phrases" }
+  ],
+  "baatDaap": [
+    { "text": "While some contend that …, my team holds firmly to the belief that …", "source": "Issue 4 Essay 1" },
+    { "text": "Among all the demerits of this system, the most noteworthy one is that …", "source": "Issue 4 Essay 1" },
+    { "text": "With this in mind, this system should be scrapped.", "source": "Issue 4 Essay 1" },
+    { "text": "fight tooth and nail", "source": "Issue 4 Essay 1" },
+    { "text": "exacerbate the phenomenon of …", "source": "Issue 4 Essay 1" },
+    { "text": "speak volumes about …", "source": "Issue 4 Essay 1" },
+    { "text": "Chief among the reasons why … is that …", "source": "Issue 4 Essay 2" },
+    { "text": "a close correspondence between … and …", "source": "Issue 4 Essay 2" },
+    { "text": "bring more harm than good", "source": "Issue 4 Essay 2" },
+    { "text": "are of the utmost importance", "source": "Issue 4 Essay 2" },
+    { "text": "benefit considerably from …", "source": "Issue 4 Phrases" },
+    { "text": "maintain its status as a global financial center", "source": "Issue 4 News R4.1" },
+    { "text": "overemphasis on exam-oriented reading and writing at the expense of conversational fluency", "source": "Issue 4 News R4.1" },
+    { "text": "students' reluctance to speak English for fear of making mistakes and losing face", "source": "Issue 4 News R4.1" },
+    { "text": "outpouring of support … reinforces Hong Kong's reputation as a city of compassion", "source": "Issue 4 News R4.3" },
+    { "text": "widening wealth gap within the creator economy", "source": "Issue 4 News R4.4" },
+    { "text": "struggle to sustain basic livelihoods", "source": "Issue 4 News R4.4" },
+    { "text": "passing exams with flying colours", "source": "Issue 4 Essay 1" }
   ]
 }
