@@ -22,7 +22,7 @@
           { "word": "pedagogical shift", "zh": "教學轉變" },
           { "word": "rote memorization", "zh": "死記硬背" },
           { "word": "reluctance", "zh": "不情願" },
-          { "word": "losing face", "zh": "面子" }
+          { "word": "losing face", "zh": "丟面子" }
         ],
         "vocabBooster": [
           { "en": "plummet (v.)", "zh": "暴跌" },
@@ -51,7 +51,7 @@
           { "word": "forged", "zh": "開創" },
           { "word": "renowned", "zh": "知名的" }
         ],
-        "reflectionText": "The establishment of Hong Kong's third medical school would address critical doctor shortages driven by an aging population, alleviating the strain on the city's overstretched healthcare system. Expanding medical training capacity may reduce chronic understaffing in public hospitals, potentially reducing medical blunders and burnout. HKUST's school pioneers a paradigm shift in medical education by integrating cutting-edge technologies, equipping graduates with competencies for precision medicine and data-driven clinical decision-making. The school's partnerships demonstrate Hong Kong's positioning as a Greater Bay Area medical hub bridging Chinese and Western healthcare. AI case studies: NHS breast cancer mammography trial (700,000 women, Feb 2025) / AI stroke detection / 'Sybil' deep-learning model for lung cancer risk.",
+        "reflectionText": "The establishment of Hong Kong's third medical school would address critical doctor shortages driven by an aging population, alleviating the strain on the city's overstretched healthcare system. Expanding medical training capacity may reduce chronic understaffing in public hospitals, potentially reducing medical blunders and burnout. HKUST's school pioneers a paradigm shift in medical education by integrating cutting-edge technologies, equipping graduates with competencies for precision medicine and data-driven clinical decision-making. The school's partnerships demonstrate Hong Kong's positioning as a Greater Bay Area medical hub bridging Chinese and Western healthcare.",
         "reflectionHighlights": [
           { "word": "critical doctor shortages", "zh": "嚴重醫生短缺" },
           { "word": "overstretched", "zh": "超負荷的" },
@@ -94,7 +94,6 @@
           { "word": "outpouring", "zh": "湧現" },
           { "word": "reinforces", "zh": "加強" },
           { "word": "compassion", "zh": "同情心" },
-          { "word": "rescue residents' pets", "zh": "拯救居民寵物" },
           { "word": "regulatory failures", "zh": "監管失效" }
         ],
         "vocabBooster": [
@@ -193,7 +192,7 @@
       {
         "id": "p4-3",
         "phrase": "attach inordinate importance to ...",
-        "zh": "過份重視 / 絕對不低估",
+        "zh": "過份重視",
         "grammar": "+ N.",
         "connotation": "negative",
         "example": {
@@ -422,49 +421,41 @@
               { "type": "text", "content": "To all the guests and students sitting here in the hall, can you still vividly recall your feelings when you last received your report card with a long list of numbers indicating your position? Did you feel excited? Delighted? " },
               { "type": "highlight", "color": "green", "content": "Deflated", "meaning": "adj. 灰心泄氣的" },
               { "type": "text", "content": "? Or desperate? Are you satisfied with the fact that your academic results are determined by a set of numbers? " },
-              { "type": "highlight", "color": "yellow", "content": "While some contend that", "meaning": "雖然有人認為…" },
+              { "type": "highlight", "color": "yellow", "content": "While some contend that", "meaning": "雖然有人認為… (百搭讓步句開頭)" },
               { "type": "text", "content": " these numbers are good indicators that drive students to academic achievements, my team holds firmly to the belief that these rankings are " },
               { "type": "highlight", "color": "green", "content": "merely", "meaning": "adv. 僅僅" },
-              { "type": "text", "content": " evils " },
-              { "type": "highlight", "color": "yellow", "content": "suffocating students", "meaning": "令學生窒息" },
-              { "type": "text", "content": " and the policy of reporting students' class position should be abolished. My team have three points to make." }
+              { "type": "text", "content": " evils suffocating students and the policy of reporting students' class position should be abolished. My team have three points to make." }
             ]
           },
           {
             "label": "",
+            "marginNote": { "text": "e的 -ve 中 | 最佳人個假借善意 → Topic Sen", "ink": "blue" },
             "segments": [
-              { "type": "highlight", "color": "pink", "content": "Among all the demerits of this system, the most noteworthy one is that", "meaning": "n. 缺點 | Topic Sentence structure" },
+              { "type": "highlight", "color": "yellow", "content": "Among all the demerits of this system, the most noteworthy one is that", "meaning": "百搭Topic Sentence結構 — 在所有缺點中，最值得注意的是…" },
               { "type": "text", "content": " reporting students' class position " },
-              { "type": "highlight", "color": "yellow", "content": "distorts", "meaning": "扭曲" },
+              { "type": "highlight", "color": "green", "content": "distorts", "meaning": "v. 扭曲" },
               { "type": "text", "content": " the genuine purpose of education. Under the current education system in Hong Kong which " },
               { "type": "box", "content": "is fixated on", "meaning": "沉迷於/固執於", "synonyms": ["be obsessed with", "be preoccupied with", "be steeped in"] },
               { "type": "text", "content": " good grades, students attach inordinate importance to examinations as they believe that " },
-              { "type": "highlight", "color": "yellow", "content": "passing exams with flying colours", "meaning": "以優異成績通過考試" },
+              { "type": "highlight", "color": "yellow", "content": "passing exams with flying colours", "meaning": "以優異成績通過考試 (百搭考試表達)" },
               { "type": "text", "content": " would guarantee them a spot in university. This " },
               { "type": "highlight", "color": "green", "content": "notoriously", "meaning": "adv. 惡名昭彰地" },
               { "type": "text", "content": " demanding education system has long " },
               { "type": "highlight", "color": "green", "content": "exasperated", "meaning": "v. 激怒" },
               { "type": "text", "content": " students, and the system has " },
               { "type": "highlight", "color": "green", "content": "aggravated", "meaning": "v. 惡化" },
-              { "type": "text", "content": " that. Probably you will catch " },
-              { "type": "highlight", "color": "yellow", "content": "a glimpse of", "meaning": "瞥一眼" },
-              { "type": "text", "content": " the results of other classmates. If one is better than others, they will become " },
+              { "type": "text", "content": " that. Probably you will catch a glimpse of the results of other classmates to make a comparison. If one is better than others, they will become " },
               { "type": "highlight", "color": "green", "content": "complacent", "meaning": "adj. 自滿的" },
-              { "type": "text", "content": " and the desire will " },
+              { "type": "text", "content": " and the desire to maintain this 'social status' will " },
               { "type": "highlight", "color": "green", "content": "spring up", "meaning": "v. 出現" },
               { "type": "text", "content": ", making them " },
               { "type": "box", "content": "fight tooth and nail", "meaning": "exp. 殊死拼搏", "synonyms": ["struggle relentlessly", "battle with all one's might"] },
-              { "type": "text", "content": " just to get a decent class position. If one loses this game, they might fall into " },
-              { "type": "highlight", "color": "yellow", "content": "a dark abyss", "meaning": "n. 深淵" },
-              { "type": "text", "content": " and deem themselves to be failures. The system would therefore merely " },
+              { "type": "text", "content": " just to get a decent class position. If one loses this game, they might fall into a dark abyss and deem themselves to be failures. The system would therefore merely " },
               { "type": "highlight", "color": "green", "content": "churn out", "meaning": "v. 濫粗製造" },
               { "type": "text", "content": " exam machines, rather than " },
               { "type": "highlight", "color": "green", "content": "upholding", "meaning": "v. 維護/堅持" },
               { "type": "text", "content": " the meaning of education. With this in mind, " },
-              { "type": "highlight", "color": "yellow", "content": "this system should be scrapped.", "meaning": "百搭結尾句" }
-            ],
-            "handNotes": [
-              { "text": "e的 -ve 中 | 最佳人個假借善意 → Topic Sen", "ink": "blue" }
+              { "type": "highlight", "color": "yellow", "content": "this system should be scrapped.", "meaning": "百搭結尾句 — 此制度應被廢除" }
             ]
           },
           {
@@ -482,15 +473,15 @@
             "marginNote": { "text": "獸∧∨ 不只A還是B | ∧Both", "ink": "blue" },
             "segments": [
               { "type": "text", "content": "Here comes our final argument — the system will " },
-              { "type": "highlight", "color": "yellow", "content": "exacerbate the phenomenon", "meaning": "加劇這個現象" },
-              { "type": "text", "content": " of 'Tiger Parents' in Hong Kong, ultimately putting a huge strain on students. Our city is infamous for " },
-              { "type": "highlight", "color": "yellow", "content": "Tiger Moms and Helicopter Parents", "meaning": "phr. 虎媽與直升機父母/怪獸家長" },
-              { "type": "text", "content": " who " },
+              { "type": "highlight", "color": "yellow", "content": "exacerbate the phenomenon", "meaning": "加劇這個現象 (百搭動詞短語)" },
+              { "type": "text", "content": " of 'Tiger Parents' in Hong Kong, ultimately putting a huge strain on students. Our city is infamous for Tiger Moms and Helicopter Parents who " },
               { "type": "box", "content": "exert massive pressure on", "meaning": "施壓", "synonyms": ["put a great strain on", "place under constant pressure"] },
-              { "type": "text", "content": " their children and desperately want them to excel in extra-curricular activities and exams alike. As parents may not know much about the school curriculum, the one and only indicator for them to " },
+              { "type": "text", "content": " their children and desperately want them to " },
+              { "type": "highlight", "color": "green", "content": "excel", "meaning": "v. 表現出眾" },
+              { "type": "text", "content": " in extra-curricular activities and exams alike. As parents may not know much about the school curriculum, the one and only indicator for them to " },
               { "type": "highlight", "color": "green", "content": "gauge", "meaning": "v. 評定" },
               { "type": "text", "content": " their children's performance would be their class position. The majority of students " },
-              { "type": "highlight", "color": "green", "content": "cited", "meaning": "v. 引用" },
+              { "type": "highlight", "color": "green", "content": "cited", "meaning": "v. 引用/佐證" },
               { "type": "text", "content": " parental expectations as a main source of pressure. These " },
               { "type": "box", "content": "speak volumes about", "meaning": "exp. 清楚說明", "synonyms": ["point to", "lay bare", "bring to light", "indicate"] },
               { "type": "text", "content": " the fact that disclosing class position to parents may make parents more demanding. It is lamentable to see that such " },
@@ -528,18 +519,19 @@
         "paragraphs": [
           {
             "label": "",
+            "marginNote": { "text": "在e聯因 中", "ink": "blue" },
             "segments": [
               { "type": "text", "content": "Dear Parents,\n\nI am writing to invite you and your child to take part in a two-day " },
               { "type": "box", "content": "digital detox", "meaning": "phr. 數碼健康/電子排毒", "synonyms": ["going tech free", "unplugging from digital life", "embarking on a social media cleanse"] },
               { "type": "text", "content": " camp scheduled for next month. This is a wonderful opportunity for parents and students to put down electronic gadgets, spend quality time together and reconnect with each other." }
-            ],
-            "marginNote": { "text": "在e聯因 中", "ink": "blue" }
+            ]
           },
           {
             "label": "",
+            "marginNote": { "text": "因果關係", "ink": "blue" },
             "segments": [
-              { "type": "highlight", "color": "yellow", "content": "Chief among the reasons", "meaning": "在所有原因中最主要的是…" },
-              { "type": "text", "content": " why we are holding such a camp is that we would like to help parents and students " },
+              { "type": "highlight", "color": "yellow", "content": "Chief among the reasons why", "meaning": "在所有原因中最主要的是… (百搭開頭結構)" },
+              { "type": "text", "content": " we are holding such a camp is that we would like to help parents and students " },
               { "type": "box", "content": "take a break from", "meaning": "遠離", "synonyms": ["escape from", "cut ourselves off from", "have a respite from"] },
               { "type": "text", "content": " the online world. According to official figures, Hong Kong has one of the world's highest smartphone penetration rates at a " },
               { "type": "highlight", "color": "green", "content": "staggering", "meaning": "adj. 驚人的" },
@@ -548,35 +540,34 @@
               { "type": "text", "content": " the use of social media and anxiety. The human " },
               { "type": "highlight", "color": "green", "content": "attention span", "meaning": "phr. 集中力時間" },
               { "type": "text", "content": " has also declined sharply since the first smartphones " },
-              { "type": "highlight", "color": "yellow", "content": "came on the market", "meaning": "exp. 面世" },
+              { "type": "highlight", "color": "yellow", "content": "came on the market", "meaning": "exp. 面世 (百搭時間表達)" },
               { "type": "text", "content": ". Hyper-connectivity could " },
-              { "type": "highlight", "color": "yellow", "content": "bring more harm than good.", "meaning": "帶來弊多於利" },
-              { "type": "text", "content": " And your company and participation " },
-              { "type": "highlight", "color": "yellow", "content": "are of the utmost importance", "meaning": "非常重要" },
+              { "type": "highlight", "color": "yellow", "content": "bring more harm than good", "meaning": "帶來弊多於利 (百搭評價句)" },
+              { "type": "text", "content": ". And your company and participation " },
+              { "type": "highlight", "color": "yellow", "content": "are of the utmost importance", "meaning": "非常重要 (百搭強調句)" },
               { "type": "text", "content": " in guiding and supporting them." }
-            ],
-            "marginNote": { "text": "因果關係", "ink": "blue" }
+            ]
           },
           {
             "label": "",
+            "marginNote": { "text": "路途 | 高風格 | 非常需要 | 加強/鞏固(固)", "ink": "blue" },
             "segments": [
               { "type": "text", "content": "In addition to shunning the " },
               { "type": "highlight", "color": "green", "content": "realm", "meaning": "n. 領域" },
               { "type": "text", "content": " of social media, we think it would be great if you could spend some " },
               { "type": "highlight", "color": "green", "content": "uninterrupted", "meaning": "adj. 不間斷的" },
               { "type": "text", "content": " time with your child before their biggest challenge " },
-              { "type": "highlight", "color": "yellow", "content": "to date", "meaning": "phr. 到目前為止" },
+              { "type": "highlight", "color": "yellow", "content": "to date", "meaning": "phr. 到目前為止 (百搭時間短語)" },
               { "type": "text", "content": " — the DSE exams. A weekend " },
               { "type": "box", "content": "getaway", "meaning": "n. 短假", "synonyms": ["respite", "breather", "break"] },
               { "type": "text", "content": " in early March is a much-needed " },
-              { "type": "highlight", "color": "yellow", "content": "breather", "meaning": "n. 短暫休息" },
+              { "type": "highlight", "color": "green", "content": "breather", "meaning": "n. 短暫休息" },
               { "type": "text", "content": ". We believe you would " },
               { "type": "box", "content": "benefit considerably from", "meaning": "由…獲得重大好處", "synonyms": ["benefit immensely from", "reap considerable benefits from"] },
               { "type": "text", "content": " it too. It is time we gave ourselves some spaces to slow down, unbreak our brains and " },
-              { "type": "highlight", "color": "yellow", "content": "cement", "meaning": "加強/鞏固" },
+              { "type": "highlight", "color": "yellow", "content": "cement", "meaning": "v. 加強/鞏固 (百搭動詞)" },
               { "type": "text", "content": " the relationship with our younger generation." }
-            ],
-            "marginNote": { "text": "路途 | 高風格 | 非常需要 | 加強/鞏固(固)", "ink": "blue" }
+            ]
           },
           {
             "label": "",
@@ -633,33 +624,43 @@
     { "word": "utilitarianism", "zh": "功利主義", "group": "U", "source": "Issue 4 Essay 1" },
     { "word": "prevail", "zh": "盛行", "group": "P", "source": "Issue 4 Essay 1" },
     { "word": "patently", "zh": "明顯地", "group": "P", "source": "Issue 4 Essay 1" },
+    { "word": "distorts", "zh": "扭曲", "group": "D", "source": "Issue 4 Essay 1" },
+    { "word": "notoriously", "zh": "惡名昭彰地", "group": "N", "source": "Issue 4 Essay 1" },
+    { "word": "exasperated", "zh": "激怒", "group": "E", "source": "Issue 4 Essay 1" },
+    { "word": "excel", "zh": "表現出眾", "group": "E", "source": "Issue 4 Essay 1" },
+    { "word": "cited", "zh": "引用/佐證", "group": "C", "source": "Issue 4 Essay 1" },
+    { "word": "ill-founded", "zh": "缺乏根據的", "group": "I", "source": "Issue 4 Essay 1" },
     { "word": "staggering", "zh": "驚人的", "group": "S", "source": "Issue 4 Essay 2" },
     { "word": "realm", "zh": "領域", "group": "R", "source": "Issue 4 Essay 2" },
     { "word": "uninterrupted", "zh": "不間斷的", "group": "U", "source": "Issue 4 Essay 2" },
     { "word": "gruelling", "zh": "使人筋疲力盡的", "group": "G", "source": "Issue 4 Essay 2" },
     { "word": "miscellaneous", "zh": "其他的", "group": "M", "source": "Issue 4 Essay 2" },
     { "word": "juggle", "zh": "兼顧", "group": "J", "source": "Issue 4 Essay 2" },
+    { "word": "attached", "zh": "附上", "group": "A", "source": "Issue 4 Essay 2" },
+    { "word": "guardian", "zh": "監護人", "group": "G", "source": "Issue 4 Essay 2" },
+    { "word": "breather", "zh": "短暫休息", "group": "B", "source": "Issue 4 Essay 2" },
     { "word": "rejuvenate", "zh": "煥新", "group": "R", "source": "Issue 4 Phrases" },
-    { "word": "distressing", "zh": "令人擔憂的", "group": "D", "source": "Issue 4 Phrases" }
+    { "word": "distressing", "zh": "令人擔憂的", "group": "D", "source": "Issue 4 Phrases" },
+    { "word": "captivates", "zh": "吸引", "group": "C", "source": "Issue 4 Phrases" }
   ],
   "baatDaap": [
     { "text": "While some contend that …, my team holds firmly to the belief that …", "source": "Issue 4 Essay 1" },
     { "text": "Among all the demerits of this system, the most noteworthy one is that …", "source": "Issue 4 Essay 1" },
     { "text": "With this in mind, this system should be scrapped.", "source": "Issue 4 Essay 1" },
-    { "text": "fight tooth and nail", "source": "Issue 4 Essay 1" },
+    { "text": "passing exams with flying colours", "source": "Issue 4 Essay 1" },
     { "text": "exacerbate the phenomenon of …", "source": "Issue 4 Essay 1" },
-    { "text": "speak volumes about …", "source": "Issue 4 Essay 1" },
     { "text": "Chief among the reasons why … is that …", "source": "Issue 4 Essay 2" },
-    { "text": "a close correspondence between … and …", "source": "Issue 4 Essay 2" },
     { "text": "bring more harm than good", "source": "Issue 4 Essay 2" },
     { "text": "are of the utmost importance", "source": "Issue 4 Essay 2" },
+    { "text": "to date", "source": "Issue 4 Essay 2" },
+    { "text": "cement the relationship with …", "source": "Issue 4 Essay 2" },
     { "text": "benefit considerably from …", "source": "Issue 4 Phrases" },
     { "text": "maintain its status as a global financial center", "source": "Issue 4 News R4.1" },
     { "text": "overemphasis on exam-oriented reading and writing at the expense of conversational fluency", "source": "Issue 4 News R4.1" },
     { "text": "students' reluctance to speak English for fear of making mistakes and losing face", "source": "Issue 4 News R4.1" },
-    { "text": "outpouring of support … reinforces Hong Kong's reputation as a city of compassion", "source": "Issue 4 News R4.3" },
+    { "text": "outpouring of support reinforces Hong Kong's reputation as a city of compassion", "source": "Issue 4 News R4.3" },
     { "text": "widening wealth gap within the creator economy", "source": "Issue 4 News R4.4" },
     { "text": "struggle to sustain basic livelihoods", "source": "Issue 4 News R4.4" },
-    { "text": "passing exams with flying colours", "source": "Issue 4 Essay 1" }
+    { "text": "came on the market", "source": "Issue 4 Essay 2" }
   ]
 }
