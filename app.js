@@ -463,7 +463,9 @@ function renderSegmentsWithEdit(segments, ei, pi) {
   if (!segments) return '';
   return segments.map((seg, si) => {
     const editBtn = `<button class="edit-btn" style="display:none;font-size:0.55rem;padding:1px 4px;vertical-align:middle;margin-left:1px;" onclick="editSegment(${ei},${pi},${si})">✏️</button>`;
-    if (seg.type === 'text') return escapeHtml(seg.content);
+    if (seg.type === 'text') {
+      return `<span>${escapeHtml(seg.content)}${editBtn}</span>`;
+    }
     if (seg.type === 'highlight') {
       const popup = `<span class="popup"><span class="popup-word">${escapeHtml(seg.content)}</span><span class="popup-meaning">${seg.meaning || ''}</span></span>`;
       return `<span class="hi-${seg.color}">${escapeHtml(seg.content)}${popup}${editBtn}</span>`;
@@ -479,19 +481,20 @@ function renderSegmentsWithEdit(segments, ei, pi) {
 
 function editSegment(ei, pi, si) {
   const seg = data.languageMaster.essays[ei].paragraphs[pi].segments[si];
+  const isText = seg.type === 'text';
   showModal(`
-    <h3 style="margin:0 0 16px;font-family:'Syne',sans-serif;">Edit Highlight</h3>
-    <label style="font-size:0.8rem;font-weight:600;display:block;margin-bottom:4px;">Text</label>
-    <input id="seg-content" value="${escapeHtml(seg.content)}" style="width:100%;padding:8px;border:1px solid var(--border);border-radius:6px;margin-bottom:12px;font-family:inherit;box-sizing:border-box;">
-    <label style="font-size:0.8rem;font-weight:600;display:block;margin-bottom:4px;">Highlight Colour</label>
+    <h3 style="margin:0 0 16px;font-family:'Syne',sans-serif;">${isText ? 'Edit Text' : 'Edit Highlight'}</h3>
+    <label style="font-size:0.8rem;font-weight:600;display:block;margin-bottom:4px;">Text Content</label>
+    <textarea id="seg-content" rows="4" style="width:100%;padding:8px;border:1px solid var(--border);border-radius:6px;margin-bottom:12px;font-family:inherit;box-sizing:border-box;resize:vertical;">${escapeHtml(seg.content)}</textarea>
+    <label style="font-size:0.8rem;font-weight:600;display:block;margin-bottom:4px;">Highlight Type</label>
     <select id="seg-type" style="width:100%;padding:8px;border:1px solid var(--border);border-radius:6px;margin-bottom:12px;font-family:inherit;">
+      <option value="text" ${seg.type==='text'?'selected':''}>No highlight (plain text)</option>
       <option value="highlight-green" ${seg.type==='highlight'&&seg.color==='green'?'selected':''}>🟢 Green (Vocab)</option>
       <option value="highlight-yellow" ${seg.type==='highlight'&&seg.color==='yellow'?'selected':''}>🟡 Yellow (百搭)</option>
       <option value="highlight-pink" ${seg.type==='highlight'&&seg.color==='pink'?'selected':''}>🩷 Pink (Point)</option>
       <option value="box" ${seg.type==='box'?'selected':''}>⬜ Box (Phrase)</option>
-      <option value="text" ${seg.type==='text'?'selected':''}>No highlight (plain text)</option>
     </select>
-    <label style="font-size:0.8rem;font-weight:600;display:block;margin-bottom:4px;">Chinese Meaning / Note</label>
+    <label style="font-size:0.8rem;font-weight:600;display:block;margin-bottom:4px;">Chinese Meaning / Note <span style="font-weight:400;color:#999;">(for highlights only)</span></label>
     <input id="seg-meaning" value="${escapeHtml(seg.meaning || '')}" style="width:100%;padding:8px;border:1px solid var(--border);border-radius:6px;font-family:inherit;box-sizing:border-box;">
   `, () => {
     const content = document.getElementById('seg-content').value;
