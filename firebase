@@ -1,0 +1,71 @@
+// ===== FIREBASE CONFIG =====
+import { initializeApp } from “https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js”;
+import { getFirestore, doc, setDoc, getDoc } from “https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore.js”;
+
+const firebaseConfig = {
+apiKey: “AIzaSyDglmPhTSioXefss0L9zGZftl-DNNnInVA”,
+authDomain: “dse-study-hub.firebaseapp.com”,
+projectId: “dse-study-hub”,
+storageBucket: “dse-study-hub.firebasestorage.app”,
+messagingSenderId: “970986657398”,
+appId: “1:970986657398:web:d0c935e5427f5937b23157”,
+measurementId: “G-WBLP2DJMCH”
+};
+
+const app = initializeApp(firebaseConfig);
+const db = getFirestore(app);
+
+// ===== SAVE DATA TO FIREBASE =====
+export async function saveData(data) {
+try {
+await setDoc(doc(db, “studyhub”, “data”), { content: JSON.stringify(data) });
+console.log(“✅ Data saved to Firebase”);
+return true;
+} catch (e) {
+console.error(“❌ Error saving:”, e);
+return false;
+}
+}
+
+// ===== LOAD DATA FROM FIREBASE =====
+export async function loadData() {
+try {
+const docSnap = await getDoc(doc(db, “studyhub”, “data”));
+if (docSnap.exists()) {
+console.log(“✅ Data loaded from Firebase”);
+return JSON.parse(docSnap.data().content);
+} else {
+console.log(“No data found, using empty structure”);
+return null;
+}
+} catch (e) {
+console.error(“❌ Error loading:”, e);
+return null;
+}
+}
+
+// ===== SAVE ANNOTATIONS TO FIREBASE =====
+export async function saveAnnotations(annotations) {
+try {
+await setDoc(doc(db, “studyhub”, “annotations”), { content: JSON.stringify(annotations) });
+console.log(“✅ Annotations saved”);
+return true;
+} catch (e) {
+console.error(“❌ Error saving annotations:”, e);
+return false;
+}
+}
+
+// ===== LOAD ANNOTATIONS FROM FIREBASE =====
+export async function loadAnnotations() {
+try {
+const docSnap = await getDoc(doc(db, “studyhub”, “annotations”));
+if (docSnap.exists()) {
+return JSON.parse(docSnap.data().content);
+}
+return { stickyNotes: [], drawings: [] };
+} catch (e) {
+console.error(“❌ Error loading annotations:”, e);
+return { stickyNotes: [], drawings: [] };
+}
+}
