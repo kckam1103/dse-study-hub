@@ -156,28 +156,6 @@
 
 </main>
 
-<script type="module">
-  import { saveData, loadData, saveAnnotations, loadAnnotations } from './firebase.js';
-
-  // Make Firebase functions available globally
-  window.firebaseSave = saveData;
-  window.firebaseLoad = loadData;
-  window.firebaseSaveAnnotations = saveAnnotations;
-  window.firebaseLoadAnnotations = loadAnnotations;
-  window.firebaseReady = true;
-
-  // Auto-load data from Firebase on startup
-  window.addEventListener('DOMContentLoaded', async () => {
-    const indicator = document.getElementById('save-indicator');
-    if (indicator) { indicator.textContent = '⏳ Loading...'; indicator.style.color = '#f0b429'; }
-    const cloudData = await loadData();
-    if (cloudData) {
-      window.cloudDataLoaded = cloudData;
-    }
-    if (indicator) { indicator.textContent = '✅ Synced'; indicator.style.color = '#4caf50'; }
-  });
-</script>
-
 <script src="app.js"></script>
 
 </body>
