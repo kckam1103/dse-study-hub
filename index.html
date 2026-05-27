@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -9,6 +10,7 @@
 <body>
 
 <!-- ===== SIDEBAR ===== -->
+
 <nav id="sidebar">
   <div class="sidebar-logo">
     <h1>DSE English<br>Study Hub</h1>
@@ -20,63 +22,71 @@
       <span class="nav-label">Home</span>
     </div>
 
-    <div class="nav-item" data-page="languageMaster" onclick="navigate('languageMaster','news')">
-      <span class="nav-icon">📚</span>
-      <span class="nav-label">Language Master</span>
-    </div>
-    <div class="nav-sub">
-      <div class="nav-sub-item" onclick="navigate('languageMaster','news')">📰 News</div>
-      <div class="nav-sub-item" onclick="navigate('languageMaster','phrases')">🔑 Phrases</div>
-      <div class="nav-sub-item" onclick="navigate('languageMaster','essays')">📝 Essays</div>
-    </div>
+```
+<div class="nav-item" data-page="languageMaster" onclick="navigate('languageMaster','news')">
+  <span class="nav-icon">📚</span>
+  <span class="nav-label">Language Master</span>
+</div>
+<div class="nav-sub">
+  <div class="nav-sub-item" onclick="navigate('languageMaster','news')">📰 News</div>
+  <div class="nav-sub-item" onclick="navigate('languageMaster','phrases')">🔑 Phrases</div>
+  <div class="nav-sub-item" onclick="navigate('languageMaster','essays')">📝 Essays</div>
+</div>
 
-    <div class="nav-item" data-page="mainNotes" onclick="navigate('mainNotes')">
-      <span class="nav-icon">📝</span>
-      <span class="nav-label">Main Notes</span>
-    </div>
+<div class="nav-item" data-page="mainNotes" onclick="navigate('mainNotes')">
+  <span class="nav-icon">📝</span>
+  <span class="nav-label">Main Notes</span>
+</div>
 
-    <div class="nav-item" data-page="ideaPowerBank" onclick="navigate('ideaPowerBank')">
-      <span class="nav-icon">💡</span>
-      <span class="nav-label">Idea Power Bank</span>
-    </div>
+<div class="nav-item" data-page="ideaPowerBank" onclick="navigate('ideaPowerBank')">
+  <span class="nav-icon">💡</span>
+  <span class="nav-label">Idea Power Bank</span>
+</div>
 
-    <div class="nav-item" data-page="nytDiy" onclick="navigate('nytDiy')">
-      <span class="nav-icon">📰</span>
-      <span class="nav-label">NYT DIY</span>
-    </div>
+<div class="nav-item" data-page="nytDiy" onclick="navigate('nytDiy')">
+  <span class="nav-icon">📰</span>
+  <span class="nav-label">NYT DIY</span>
+</div>
 
-    <div class="nav-item" data-page="shuJai" onclick="navigate('shuJai')">
-      <span class="nav-icon">📖</span>
-      <span class="nav-label">Shu Jai</span>
-    </div>
+<div class="nav-item" data-page="shuJai" onclick="navigate('shuJai')">
+  <span class="nav-icon">📖</span>
+  <span class="nav-label">Shu Jai</span>
+</div>
 
-    <div class="nav-item" data-page="vocabBook" onclick="navigate('vocabBook')">
-      <span class="nav-icon">📗</span>
-      <span class="nav-label">Vocab Book</span>
-    </div>
+<div class="nav-item" data-page="vocabBook" onclick="navigate('vocabBook')">
+  <span class="nav-icon">📗</span>
+  <span class="nav-label">Vocab Book</span>
+</div>
 
-    <div class="nav-item" data-page="baatDaap" onclick="navigate('baatDaap')">
-      <span class="nav-icon">📒</span>
-      <span class="nav-label">百搭句子</span>
-    </div>
+<div class="nav-item" data-page="baatDaap" onclick="navigate('baatDaap')">
+  <span class="nav-icon">📒</span>
+  <span class="nav-label">百搭句子</span>
+</div>
+```
+
   </div>
 </nav>
 
 <!-- ===== MAIN ===== -->
+
 <main id="main">
 
   <!-- TOP BAR -->
+
   <div class="topbar">
     <div class="topbar-title" id="topbar-title">🏠 Home</div>
     <div class="topbar-actions">
+      <span id="save-indicator" style="font-family:'Syne',sans-serif;font-size:0.72rem;color:#4caf50;margin-right:8px;">✅ Synced</span>
       <button class="btn btn-ghost" id="edit-toggle-btn" onclick="toggleEditMode()">✏️ Edit</button>
     </div>
   </div>
 
   <!-- EDIT BANNER -->
+
   <div class="edit-banner" id="edit-banner">✏️ Edit mode ON — click any Edit button to modify content</div>
 
   <!-- ===== HOME ===== -->
+
   <div class="page active" id="page-home">
     <div class="home-header">
       <h2>Study Hub 📚</h2>
@@ -86,6 +96,7 @@
   </div>
 
   <!-- ===== LANGUAGE MASTER ===== -->
+
   <div class="page" id="page-languageMaster" data-page="languageMaster">
     <div class="section-tabs">
       <button class="section-tab active" data-tab="news" onclick="showSubTab('languageMaster','news')">📰 News</button>
@@ -93,32 +104,40 @@
       <button class="section-tab" data-tab="essays" onclick="showSubTab('languageMaster','essays')">📝 Sample Essays</button>
     </div>
 
-    <div class="tab-content" data-tab="news" id="lm-news-content"></div>
-    <div class="tab-content" data-tab="phrases" id="lm-phrases-content" style="display:none;"></div>
-    <div class="tab-content" data-tab="essays" id="lm-essays-content" style="display:none;"></div>
+```
+<div class="tab-content" data-tab="news" id="lm-news-content"></div>
+<div class="tab-content" data-tab="phrases" id="lm-phrases-content" style="display:none;"></div>
+<div class="tab-content" data-tab="essays" id="lm-essays-content" style="display:none;"></div>
+```
+
   </div>
 
   <!-- ===== MAIN NOTES ===== -->
+
   <div class="page" id="page-mainNotes">
     <div id="mainnotes-content"></div>
   </div>
 
   <!-- ===== IDEA POWER BANK ===== -->
+
   <div class="page" id="page-ideaPowerBank">
     <div id="ipb-content"></div>
   </div>
 
   <!-- ===== NYT DIY ===== -->
+
   <div class="page" id="page-nytDiy">
     <div id="nyt-content"></div>
   </div>
 
   <!-- ===== SHU JAI ===== -->
+
   <div class="page" id="page-shuJai">
     <div id="shujai-content"></div>
   </div>
 
   <!-- ===== VOCAB BOOK ===== -->
+
   <div class="page" id="page-vocabBook">
     <div class="legend">
       <div class="legend-item"><span class="legend-dot" style="background:var(--green-hi);border-bottom:2px solid var(--green-border);display:inline-block;width:12px;height:9px;border-radius:2px;"></span>Auto-saved from green highlights</div>
@@ -127,6 +146,7 @@
   </div>
 
   <!-- ===== 百搭句子 ===== -->
+
   <div class="page" id="page-baatDaap">
     <div class="legend">
       <div class="legend-item"><span class="legend-dot" style="background:var(--yellow-hi);border-bottom:2px solid var(--yellow-border);display:inline-block;width:12px;height:9px;border-radius:2px;"></span>Auto-saved from yellow highlights</div>
@@ -136,6 +156,29 @@
 
 </main>
 
+<script type="module">
+  import { saveData, loadData, saveAnnotations, loadAnnotations } from './firebase.js';
+
+  // Make Firebase functions available globally
+  window.firebaseSave = saveData;
+  window.firebaseLoad = loadData;
+  window.firebaseSaveAnnotations = saveAnnotations;
+  window.firebaseLoadAnnotations = loadAnnotations;
+  window.firebaseReady = true;
+
+  // Auto-load data from Firebase on startup
+  window.addEventListener('DOMContentLoaded', async () => {
+    const indicator = document.getElementById('save-indicator');
+    if (indicator) { indicator.textContent = '⏳ Loading...'; indicator.style.color = '#f0b429'; }
+    const cloudData = await loadData();
+    if (cloudData) {
+      window.cloudDataLoaded = cloudData;
+    }
+    if (indicator) { indicator.textContent = '✅ Synced'; indicator.style.color = '#4caf50'; }
+  });
+</script>
+
 <script src="app.js"></script>
+
 </body>
 </html>
