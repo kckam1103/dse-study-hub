@@ -6,35 +6,35 @@ let editMode = false;
 
 // ===== INIT =====
 async function init() {
-// Wait for Firebase to be ready
-await new Promise(resolve => {
-if (window.firebaseReady) return resolve();
-const check = setInterval(() => { if (window.firebaseReady) { clearInterval(check); resolve(); } }, 100);
-setTimeout(resolve, 3000); // fallback after 3s
-});
+const indicator = document.getElementById(‘save-indicator’);
 
-// Try loading from Firebase first
-if (window.cloudDataLoaded) {
-data = window.cloudDataLoaded;
-} else if (window.firebaseLoad) {
-const cloudData = await window.firebaseLoad();
-if (cloudData) {
-data = cloudData;
-}
-}
-
-// Fallback to local data.json
-if (!data) {
+// Step 1: Load data.json immediately so page renders fast
 try {
 const res = await fetch(‘data.json’);
 data = await res.json();
 } catch (e) {
 data = { languageMaster: { news: [], phrases: [], essays: [] }, mainNotes: [], ideaPowerBank: [], nytDiy: [], shuJai: [], vocabBook: [], baatDaap: [] };
 }
-}
 
 renderAll();
 navigate(‘home’);
+
+// Step 2: Try Firebase in background (non-blocking)
+if (indicator) { indicator.textContent = ‘Syncing…’; indicator.style.color = ‘#f0b429’; }
+try {
+await new Promise(resolve => setTimeout(resolve, 2000));
+if (window.firebaseLoad) {
+const cloudData = await window.firebaseLoad();
+if (cloudData) {
+data = cloudData;
+renderAll();
+navigate(currentPage);
+}
+}
+if (indicator) { indicator.textContent = ‘Synced’; indicator.style.color = ‘#4caf50’; }
+} catch (e) {
+if (indicator) { indicator.textContent = ‘Local’; indicator.style.color = ‘#888’; }
+}
 }
 
 // ===== AUTO SAVE TO FIREBASE =====
