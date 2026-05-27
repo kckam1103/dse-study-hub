@@ -413,5 +413,12 @@ function emptyState(icon, title, desc) {
 return `<div class="empty-state"> <div class="empty-icon">${icon}</div> <h3>${title}</h3> <p>${desc}</p> </div>`;
 }
 
+// ===== EXPOSE FUNCTIONS GLOBALLY =====
+window.navigate = navigate;
+window.toggleEditMode = toggleEditMode;
+window.showSubTab = showSubTab;
+window.togglePhrase = togglePhrase;
+window.toggleTopic = toggleTopic;
+
 // ===== START =====
 window.addEventListener(‘DOMContentLoaded’, init);
